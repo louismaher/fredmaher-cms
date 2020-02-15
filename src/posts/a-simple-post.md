@@ -7,7 +7,7 @@ tags:
   - blog
 ---
 C'est très bientôt que vous pourrez vous procurer mon album via ce site. 
-D'autres nouvelles fraîches sous peu 
+D'autres nouvelles fraîches sous peu.
 Gardez l'oeil ouvert.
 
 How about a `<blockquote>`?
