@@ -1,5 +1,5 @@
 ---
-title: Lancement Album Fred Extra Bacon à l'horizon
+title: Lancement album « Fred Maher Extra Bacon » à l'horizon
 date: 2020-02-15T05:00:00.000Z
 tags:
   - demo-content
