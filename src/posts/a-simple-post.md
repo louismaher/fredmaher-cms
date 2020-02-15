@@ -1,5 +1,5 @@
 ---
-title: A simple post
+title: Lancement Album Fred Maher à l'horizon
 date: '2019-06-18'
 tags:
   - demo-content
