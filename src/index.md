@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Un musicien
+title: J'attends l'printemps
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
