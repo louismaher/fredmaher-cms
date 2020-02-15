@@ -1,6 +1,6 @@
 ---
 title: Lancement Album Fred Maher à l'horizon
-date: '2019-06-18'
+date: 2020-02-15T05:00:00.000Z
 tags:
   - demo-content
   - simple-post
