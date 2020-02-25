@@ -6,6 +6,8 @@ tags:
   - simple-post
   - blog
 ---
+Test
+
 C'est très bientôt que vous pourrez vous procurer mon album via ce site. 
 D'autres nouvelles fraîches sous peu.
 Gardez l'oeil ouvert.
