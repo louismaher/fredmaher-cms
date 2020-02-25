@@ -1,6 +1,6 @@
 ---
 layout: home
-title: J'attends l'printemps
+title: J'attends l'été
 postsHeading: Dernières nouvelles
 archiveButtonText: See all posts
 socialImage: ''
