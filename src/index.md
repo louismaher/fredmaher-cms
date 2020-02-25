@@ -1,6 +1,6 @@
 ---
 layout: home
-title: J'attends l'hiver
+title: J'attends rien
 postsHeading: Dernières nouvelles
 archiveButtonText: See all posts
 socialImage: ''
