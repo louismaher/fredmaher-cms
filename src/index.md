@@ -1,7 +1,7 @@
 ---
 layout: home
 title: J'attends l'printemps
-postsHeading: Latest posts
+postsHeading: Dernières nouvelles
 archiveButtonText: See all posts
 socialImage: ''
 ---
