@@ -1,6 +1,6 @@
 ---
 layout: home
-title: J'attends rien
+title: J'attends l'printemps
 postsHeading: Dernières nouvelles
 archiveButtonText: See all posts
 socialImage: ''
