@@ -1,6 +1,6 @@
 ---
 title: Un test
-date: '2019-06-18'
+date: 2020-03-01T05:00:00.000Z
 tags:
   - demo-content
   - code
