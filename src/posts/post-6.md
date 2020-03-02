@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Test 6
-date: Last Modified
+date: '2020-03-02'
 tags:
   - musique
 ---
