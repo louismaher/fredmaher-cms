@@ -8,7 +8,7 @@ const appendSuffix = n => {
 module.exports = function dateFilter(value) {
   const dateObject = new Date(value);
 
-  const months = ['January', 'Février', 'Mars', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  const months = ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre'];
   
   const dayWithSuffix = appendSuffix(dateObject.getDate());
 
