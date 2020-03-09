@@ -1,10 +1,10 @@
 ---
 title: Vidéo - Cheveux au vent
+metaTitle: Vidéo - Cheveux au vent
+metaDesc: Vidéo - Cheveux au vent
 date: '2020-03-02'
 tags:
-  - demo-content
-  - blog
-  - media
+  - Vidéos
 ---
 
 
