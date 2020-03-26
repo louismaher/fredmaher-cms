@@ -39,7 +39,7 @@ The `.full-bleed` utility gives those elements prominence and _importantly_ keep
 
 - - -
 
-🔥 **Pro tip**: When working with a utility like `.full-bleed`, it’s a good idea to add an inner container that has a max-width and auto horizontal margin. For this, I normal create a shared `.wrapper` component like this:
+😀 **Pro tip**: When working with a utility like `.full-bleed`, it’s a good idea to add an inner container that has a max-width and auto horizontal margin. For this, I normal create a shared `.wrapper` component like this:
 
 ```css
 .wrapper {

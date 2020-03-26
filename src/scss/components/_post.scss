@@ -22,9 +22,9 @@
       color: var(--color-dark);
       position: relative;
       display: inline-block;
-      background: var(--color-theme-highlight);
+      background: var(--color-theme-light);
       padding: 0.2rem 0.4rem 0.3rem 0.4rem;
-      text-decoration: none;
+      text-decoration: underline;
       word-break: break-word;
 
       @include apply-utility('leading', 'tight');
