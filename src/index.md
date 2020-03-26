@@ -6,3 +6,4 @@ postsHeading: Dernières nouvelles
 archiveButtonText: See all posts
 socialImage: ''
 ---
+J'm'appelle Frédéric mais tout l'monde m'appelle Fred.
