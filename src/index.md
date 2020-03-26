@@ -6,4 +6,4 @@ postsHeading: Dernières nouvelles
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Salut! J' m'appelle Frédéric mais tout l'monde m'appelle Fred.
+Salut! J'm'appelle Frédéric mais tout l'monde m'appelle Fred.
