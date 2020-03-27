@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: Lancement
-metaTitle: Lancement J'attends l'printemps
-metaDesc: Lancement de l'album J'attends l'printemps
+title: 😊 Lancement de Extra🥓Bacon
+metaTitle: Lancement de Extra Bacon
+metaDesc: Lancement de Extra Bacon
 date: 2020-03-07T20:31:55.519Z
 tags:
   - Musique
