@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: home
 title: merci de venir me voir. Mon nom est Frédéric mais tout le monde
   m'appelle Fred.
 metaDesc: Site de l'auteur-compositeur Fred Maher
