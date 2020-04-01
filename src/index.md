@@ -7,4 +7,4 @@ postsHeading: Nouvelles
 archiveButtonText: Voir toutes les nouvelles
 socialImage: ''
 ---
-Mon nom est Frédéric mais tout le monde m'appelle Fred.
+nom est Frédéric mais tout le monde m'appelle Fred.
