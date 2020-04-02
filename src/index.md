@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Salut! \U0001F44B"
+title: "Salut \U0001F44B"
 metaDesc: Site de l'auteur-compositeur Fred Maher
 postsHeading: Nouvelles
 archiveButtonText: Voir toutes les nouvelles
