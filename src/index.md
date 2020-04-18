@@ -16,8 +16,8 @@ main en guise de rame, j’ai pu remplir ma besace de tounes originales.
 
 > 
 > Chu un vieil arbre résineux
-> Chu né en hiver
-> J’pousse tout d’travers...
+Chu né en hiver
+J’pousse tout d’travers...
 
 L’heure est venu de déballer mon sac.
 Ah oui! pour apaiser cette urgence, le folk et le country se sont pointés à ma porte.
