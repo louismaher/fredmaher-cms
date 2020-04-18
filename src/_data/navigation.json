@@ -14,6 +14,11 @@
       "text": "Facebook",
       "url": "https://twitter.com/hankchizljaw",
       "external": true
+    },
+    {
+      "text": "J'attens l'printemps",
+      "url": "/jjattendslprintemps/index.html",
+      "external": false
     }
   ]
 }
