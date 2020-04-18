@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: J'attends l'printemps
+permalink: /j-attends-l-printemps/index.html/
 ---
 La musique m’ayant accompagné toute ma vie, *J’attends l’printemps* est l’aboutissement
 d’un long voyage...
