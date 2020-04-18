@@ -8,7 +8,7 @@ socialImage: ""
 ---
 Mon nom est Frédéric mais tout l'monde m'appelle Fred. <br> <br>
  
-La musique m’ayant accompagné toute ma vie, **J’attends l’printemps** est l’aboutissement
+La musique m’ayant accompagné toute ma vie, *J’attends l’printemps* est l’aboutissement
 d’un long voyage...
 Il y a 3 ans, sentant la braise me consumer, j’ai dû plonger tête première. Heureusement, je
 n’étais pas seul. Balancé aux quatre vents, voguant sur ma guitare, fidèle amie, crayon à la
