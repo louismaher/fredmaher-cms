@@ -19,7 +19,7 @@ main en guise de rame, j’ai pu remplir ma besace de tounes originales.
 >Chu né en hiver
 >J’pousse tout d’travers...
 
-L’’heure est venu de déballer mon sac.
+L’heure est venu de déballer mon sac.
 Ah oui! pour apaiser cette urgence, le folk et le country se sont pointés à ma porte.
 Je les ai laissés entrer avec bonheur. .
 
