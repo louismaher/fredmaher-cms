@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Salut 👋
+metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
 postsHeading: Nouvelles
 archiveButtonText: Voir toutes les nouvelles
