@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: J'attends l'printemps
+permalink: /j-attends-l-printemps/
 ---
 ![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg "Photo par Serge Morneau")
 
