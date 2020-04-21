@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
 title: J'attends l'printemps
-permalink: /j-attends-l-printemps/index.html/
-metaDesc: Album de musique J'attends l'printemps par Frédéric Maher
+permalink: /j-attends-l-printemps/index.html
 metaTitle: J'attends l'printemps - Fred Maher Musique
+metaDesc: Album de musique J'attends l'printemps par Frédéric Maher
 ---
 ![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload/f_auto/v1581958264/fredmaher.jpg "Photo par Serge Morneau")
 
