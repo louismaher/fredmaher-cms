@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: J'attends l'printemps
-permalink: /j-attends-l-printemps/index.html
+permalink: /j-attends-l-printemps/
 metaTitle: J'attends l'printemps - Fred Maher Musique
 metaDesc: Album de musique J'attends l'printemps par Frédéric Maher
 ---
