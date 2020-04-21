@@ -5,7 +5,7 @@ permalink: /j-attends-l-printemps/
 metaTitle: J'attends l'printemps - Fred Maher Musique
 metaDesc: Album de musique J'attends l'printemps par Frédéric Maher
 ---
-![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg "Photo par Serge Morne")
+![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg "Photo par Serge Morneau")
 
 La musique m’ayant accompagné toute ma vie, *J’attends l’printemps* est l’aboutissement
 d’un long voyage...
