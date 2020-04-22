@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: layouts/post.njk
 title: Salut 👋
 metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
@@ -8,7 +8,6 @@ archiveButtonText: Voir toutes les nouvelles
 socialImage: ""
 ---
 Mon nom est Frédéric mais tout l'monde m'appelle Fred.
- 
 
 <br>
 <br>
