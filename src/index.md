@@ -7,7 +7,14 @@ postsHeading: Nouvelles
 archiveButtonText: Voir toutes les nouvelles
 socialImage: ""
 ---
-Mon nom est Frédéric mais tout l'monde m'appelle Fred.
+
+*YEAH! C'EST FAIT* 😊
+
+Je viens de terminer l'enregistrement de[*J'attends l'printemps*](https://fredmahermusique.com/j-attends-l-printemps)🌱. Grâce à mes [3 formidables comparses](https://fredmahermusique.com/j-attends-l-printemps) 🎹 🎸 🎤, j'ai pu mettre à jour, en 12 chansons, où j'en étais dans mon coeur et ma tête.
+
+Comme tout le monde se suit aujourd'hui, vous pouvez me trouver sur [Youtube](https://www.youtube.com/channel/UCa6Mu7rVQ7BOkmsXrAFZRXQ)🎞️, Facebook 👍, et souvent sur[la rue Masson](https://fredmahermusique.com/j-attends-l-printemps)🌇 si vous passez par là🚶‍♀️➡️2 mètres⬅️🚶‍♂️.
+
+À bientôt sur une scène 🏟️ près de chez vous je l'espère.
 
 <br>
 <br>
