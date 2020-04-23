@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "text": "Accueil",
-      "url": "/",
+      "text": "J'attends l'printemps",
+      "url": "/j-attends-l-printemps/index.html",
       "external": false
     },
     {
-      "text": "J'attends l'printemps",
-      "url": "/j-attends-l-printemps/index.html",
+      "text": "Nouvelles",
+      "url": "/posts/video-de-cheveux-au-vent/index.html",
       "external": false
     },
     {
