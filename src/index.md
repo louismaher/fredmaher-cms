@@ -17,7 +17,7 @@ route lui glisser sous les pieds, ce qui lui donnait le souffle court.
 **Y vient d’où?** (lien)  
 Montréal
 
-**Fa’que c’est quoi ? [*J'attends l'printemps*](https://fredmahermusique.com/j-attends-l-printemps)🌱**
+**Fa’que c’est quoi ? [*J'attends l'printemps*](/j-attends-l-printemps/)🌱**
 
 **C’est qui sa gang? �� �� ��**(App photo ou caméra, consol  
 Paroles et musique, Fred Maher
