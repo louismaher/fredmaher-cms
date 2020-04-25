@@ -10,8 +10,36 @@ socialImage: ""
 
 ![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload//w_1200/bo_1px_solid_rgb:7D7B53/l_text:Georgia_72_400:J'attends%0Al'printemps,g_north_east,x_40,y_80,co_rgb:FFFFFF,/v1581958264/fredmaher.jpg "Photo par Serge Morneau")
 
+**C’est qui ça Fred Maher?** (lien Fred Maher)  
+C’t’un gratteux d’guitare et amoureux de la chanson sentant sa
+route lui glisser sous les pieds, ce qui lui donnait le souffle court.
 
-Je viens de terminer l'enregistrement de [*J'attends l'printemps*](https://fredmahermusique.com/j-attends-l-printemps)🌱. Grâce à mes [3 formidables comparses](https://fredmahermusique.com/j-attends-l-printemps) 🎹 🎸 🎤, j'ai pu mettre à jour, en 12 chansons, où j'en étais dans mon coeur et ma tête.
+**Y vient d’où?** (lien)  
+Montréal
+
+**Fa’que c’est quoi ? [*J'attends l'printemps*](https://fredmahermusique.com/j-attends-l-printemps)🌱**
+
+**C’est qui sa gang? �� �� ��**(App photo ou caméra, consol  
+Paroles et musique, Fred Maher
+
+
+Fred Maher, guitares, voix  
+Enrobé d’épices secrètes, gracieuseté de
+
+Michel Hinton, piano, accordéon  
+Mario Légaré, basses, voix  
+Louis Maher, guitares, yukulele, voix
+
+Enregistré et mixé à St-Jean-de Matha entre août 2019 et avril 2020
+par Michel assisté de Fred.
+
+Mastering Guy Rhéaume
+
+Vidéo  
+Conception et réalisation Serge Morneau  
+Montage Serge Morneau
+
+Photos Serge Morneau
 
 Comme tout le monde se suit aujourd'hui, vous pouvez me trouver sur [Youtube](https://www.youtube.com/channel/UCa6Mu7rVQ7BOkmsXrAFZRXQ) 🎞️, Facebook 👍, et souvent sur [la rue Masson](https://fredmahermusique.com/j-attends-l-printemps) 🌇 si vous passez par là🚶‍♀️➡️2 mètres⬅️🚶‍♂️.
 
