@@ -20,3 +20,14 @@ Ah oui! pour apaiser cette urgence, le folk et le country se sont
 pointés à ma porte. Je les ai laissés entrer avec bonheur…
 
 > J’vas ben mieux quand j’écoute mon cœur
+
+Paroles et musique Fred Maher  
+Fred Maher: guitares, voix  
+*Enrobé d’épices secrètes gracieuseté de*  
+Michel Hinton: piano, accordéon  
+Mario Légaré: basses, voix  
+Louis Maher: guitares, yukulele, voix  
+Enregistré et mixé à St-Jean-de Matha entre août 2019 et avril 2020 par Michel assisté de Fred.  
+Mastering: Guy Rhéaume  
+Conception, réalisation et montage de la vidéo: Serge Morneau  
+Photos: Serge Morneau

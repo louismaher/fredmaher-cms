@@ -23,15 +23,13 @@ Marqué au fer rouge par les Beatles, Robert Charlebois et tant d’autres par l
 rapidement que mon sort en était jeté. Moi aussi, j’écrirais des chansons.
 Et malgré bien des détours, ça me poursuit encore et toujours.
 
-Voici donc quelques-unes de mes dernières chansons encore toutes chaudes.
+Voici donc quelques-unes de mes dernières chansons encore toutes chaudes. [*J'attends l'printemps*](/j-attends-l-printemps/)🌱
 
 Goûtez! Goûtez! C’est du produit local !
 
 100% québécois pur jus.
 
 J’m’appelle Frédéric, mais tout l’monde m’appelle Fred.
-
-[*J'attends l'printemps*](/j-attends-l-printemps/)🌱
 
 À bientôt sur une scène 🏟️ près de chez vous je l'espère.
 
