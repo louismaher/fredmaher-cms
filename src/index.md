@@ -1,47 +1,37 @@
 ---
 layout: layouts/home.njk
-title: Salut 👋
+title: Depuis l'temps que...
 metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
 postsHeading: Nouvelles
 archiveButtonText: Voir toutes les nouvelles
 socialImage: ""
 ---
+<br>
 
-![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload//w_1200/bo_1px_solid_rgb:7D7B53/l_text:Georgia_72_400:J'attends%0Al'printemps,g_north_east,x_40,y_80,co_rgb:FFFFFF,/v1581958264/fredmaher.jpg "Photo par Serge Morneau")
+[![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload/e_sharpen/w_300/bo_1px_solid_rgb:7D7B53/l_text:Georgia_180_300_italic:J'attends%0Al'printemps,g_south_east,x_-80,y_-80,co_rgb:97C85F/b_rgb:F2FCFC/v1581958264/fredmaher.jpg "Photo par Serge Morneau")](/j-attends-l-printemps/)    
 
-**C’est qui ça Fred Maher?** (lien Fred Maher)  
-C’t’un gratteux d’guitare et amoureux de la chanson sentant sa
-route lui glisser sous les pieds, ce qui lui donnait le souffle court.
+<br>
 
-**Y vient d’où?** (lien)  
-Montréal
+Depuis mes petits doigts d’enfants de 3 ans captivés par les touches blanches et noires du
+piano familial aux premiers accords de guitare au tournant de mes 10 ans, de mes
+spectacles au Café étudiant de la Poly à devenir Membre Officiel du Band de mes frères, une
+consécration quand t’as 18 ans, de musiques de théâtre en collaborations diverses… bref!
+d’hier à aujourd’hui, bien de l’eau a coulé sous les ponts.
 
-**Fa’que c’est quoi ? [*J'attends l'printemps*](/j-attends-l-printemps/)🌱**
+Marqué au fer rouge par les Beatles, Robert Charlebois et tant d’autres par la suite, j’ai su
+rapidement que mon sort en était jeté. Moi aussi, j’écrirais des chansons.
+Et malgré bien des détours, ça me poursuit encore et toujours.
 
-**C’est qui sa gang? �� �� ��**(App photo ou caméra, consol  
-Paroles et musique, Fred Maher
+Voici donc quelques-unes de mes dernières chansons encore toutes chaudes.
 
+Goûtez! Goûtez! C’est du produit local !
 
-Fred Maher, guitares, voix  
-Enrobé d’épices secrètes, gracieuseté de
+100% québécois pur jus.
 
-Michel Hinton, piano, accordéon  
-Mario Légaré, basses, voix  
-Louis Maher, guitares, yukulele, voix
+J’m’appelle Frédéric, mais tout l’monde m’appelle Fred.
 
-Enregistré et mixé à St-Jean-de Matha entre août 2019 et avril 2020
-par Michel assisté de Fred.
-
-Mastering Guy Rhéaume
-
-Vidéo  
-Conception et réalisation Serge Morneau  
-Montage Serge Morneau
-
-Photos Serge Morneau
-
-Comme tout le monde se suit aujourd'hui, vous pouvez me trouver sur [Youtube](https://www.youtube.com/channel/UCa6Mu7rVQ7BOkmsXrAFZRXQ) 🎞️, Facebook 👍, et souvent sur [la rue Masson](https://fredmahermusique.com/j-attends-l-printemps) 🌇 si vous passez par là🚶‍♀️➡️2 mètres⬅️🚶‍♂️.
+[*J'attends l'printemps*](/j-attends-l-printemps/)🌱
 
 À bientôt sur une scène 🏟️ près de chez vous je l'espère.
 
