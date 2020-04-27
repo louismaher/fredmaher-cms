@@ -23,7 +23,7 @@ pointés à ma porte. Je les ai laissés entrer avec bonheur…
 
 Paroles et musique Fred Maher  
 Fred Maher: guitares, voix  
-*Enrobé d’épices secrètes gracieuseté de*  
+*Épices secrètes gracieuseté de*  
 Michel Hinton: piano, accordéon  
 Mario Légaré: basses, voix  
 Louis Maher: guitares, yukulele, voix  

@@ -13,7 +13,7 @@ socialImage: ""
 
 <br>
 
-Depuis mes petits doigts d’enfants de 3 ans captivés par les touches blanches et noires du
+De mes petits doigts d’enfants de 3 ans captivés par les touches blanches et noires du
 piano familial aux premiers accords de guitare au tournant de mes 10 ans, de mes
 spectacles au Café étudiant de la Poly à devenir Membre Officiel du Band de mes frères, une
 consécration quand t’as 18 ans, de musiques de théâtre en collaborations diverses… bref!
