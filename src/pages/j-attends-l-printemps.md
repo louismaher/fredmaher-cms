@@ -55,10 +55,10 @@ Photos: Serge Morneau
   Amplitude.init({
     "songs": [
       {
-        "name": "Risin' High (feat Raashan Ahmad)",
+        "name": "TEST",
         "artist": "Ancient Astronauts",
         "album": "We Are to Answer",
-        "url": "https://archive.org/download/calexico2006-12-02..flac16/calexico2006-12-02d1t02.mp3",
+        "url": "./src/mp3/j-attends-l-printemps.mp3",
         "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
       },
       {
