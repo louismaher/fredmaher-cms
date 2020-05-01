@@ -14,171 +14,28 @@ J’pousse tout d’travers...
 Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d’air de ma vie.
 
 > J’vas ben mieux quand j’écoute mon cœur
-
-<div class="container">
-
-  <audio id="audio" preload="none" tabindex="0">
-    			<source src="https://archive.org/download/calexico2006-12-02..flac16/calexico2006-12-02d1t02.mp3" data-track-number="1" />
-    			<source src="https://archive.org/download/ra2007-07-21/ra2007-07-21d1t05_64kb.mp3" data-track-number="2" />
-    			<source src="https://archive.org/download/slac2002-02-15/slac2002-02-15d1t07_64kb.mp3" data-track-number="3" />
-    			<source src="https://archive.org/download/blitzentrapper2009-02-24.flac16/blitzentrapper2009-02-24t02_64kb.mp3" data-track-number="4" />
-    			<source src="https://archive.org/download/samples2003-11-21.flac16/samples2003-11-21d2t04.mp3" data-track-number="5" />    
-    			<source src="https://archive.org/download/mikedoughty2004-06-16.flac16/d1t13.mp3" data-track-number="6" />
-    			<source src="https://archive.org/download/glove2004-03-18.shnf/glove2004-03-18d1t05.mp3" data-track-number="7" />
-    			<source src="https://archive.org/download/guster2005-11-12.flac16/guster2005-11-12d2t04.mp3" data-track-number="8" />
-                                    <source src="https://archive.org/download/oar2004-11-12.flac/oar2004-11-12d1t01.mp3" data-track-number="9" />
-                                    <source src="https://archive.org/download/mmj2003-09-26.shnf/mmj2003-09-26d2t08.mp3" data-track-number="10" />
-    			Your browser does not support HTML5 audio.
-    		</audio>
-
-  <div class="player">
-    <div class="large-toggle-btn">
-      <i class="large-play-btn"><span class="screen-reader-text">Large toggle button</span></i>
-    </div>
-    <!-- /.play-box -->
-    <div class="info-box">
-      <div class="track-info-box">
-        <div class="track-title-text"></div>
-        <div class="audio-time">
-          <span class="current-time">00:00</span> /
-          <span class="duration">00:00</span>
+ <div id="single-song-player">
+      <img data-amplitude-song-info="cover_art_url"/>
+      <div class="bottom-container">
+        <progress class="amplitude-song-played-progress" id="song-played-progress"></progress>
+        <div class="time-container">
+          <span class="current-time">
+            <span class="amplitude-current-minutes"></span>:<span class="amplitude-current-seconds"></span>
+          </span>
+          <span class="duration">
+            <span class="amplitude-duration-minutes"></span>:<span class="amplitude-duration-seconds"></span>
+          </span>
         </div>
-      </div>
-      <!-- /.info-box -->
-      <div class="progress-box">
-        <div class="progress-cell">
-          <div class="progress">
-            <div class="progress-buffer"></div>
-            <div class="progress-indicator"></div>
+        <div class="control-container">
+          <div class="amplitude-play-pause" id="play-pause">JOUER -ARRÊTER</div>
+          <div class="meta-container">
+            <span data-amplitude-song-info="name" class="song-name"></span>
+            <span data-amplitude-song-info="artist"></span>
           </div>
         </div>
       </div>
     </div>
-    <!-- /.progress-box -->
-    <div class="controls-box">
-      <i class="previous-track-btn disabled"><span class="screen-reader-text">Previous track button</span></i>
-      <i class="next-track-btn"><span class="screen-reader-text">Next track button</span></i>
-    </div>
-    <!-- /.controls-box -->
-  </div>
-  <!-- /.player -->
 
-  <div class="play-list">
-    <div class="play-list-row" data-track-row="1">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        1.
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="1">Calexico - Across The Wire</a>
-      </div>
-    </div>
-    <div class="play-list-row" data-track-row="2">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        2.
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="2">Ryan Adams &amp; The Cardinals - Cold Roses</a>
-      </div>
-    </div>
-    <div class="play-list-row" data-track-row="3">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        3.
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="3">The Slackers - Married Girl</a>
-      </div>
-    </div>
-    <div class="play-list-row" data-track-row="4">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        40.
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="4">Blitzen Trapper - Saturday Night</a>
-      </div>
-    </div>
-    <div class="play-list-row" data-track-row="5">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        5.
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="5">The Samples - Feel Us Shaking</a>
-      </div>
-    </div>
-    <div class="play-list-row" data-track-row="6">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        6.
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="6">Mike Doughty - American Car</a>
-      </div>
-    </div>
-    <div class="play-list-row" data-track-row="7">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        7.
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="7">G. Love &amp; Special Sauce - Dreamin'</a>
-      </div>
-    </div>
-    <div class="play-list-row" data-track-row="8">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        8.
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="8">Guster - Amsterdam</a>
-      </div>
-    </div>
-    <div class="play-list-row" data-track-row="9">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        9.
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="9">O.A.R. - About Mr. Brown</a>
-      </div>
-    </div>
-    <div class="play-list-row" data-track-row="10">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        10.
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="10">My Morning Jacket - Phone Went West</a>
-      </div>
-    </div>
-
-  </div>
-
-  <div>Music from the <a href="https://archive.org/details/etree" target="_blank">Live Music Archive</a></div>
-</div>
 
 Paroles et musique Fred Maher  
 Fred Maher: guitares, voix  
@@ -192,3 +49,25 @@ Vidéo de Cheveux au vent
 Conception et réalisation: Fred Maher, Serge Morneau  
 Montage: Serge Morneau  
 Photos: Serge Morneau
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.0.3/dist/amplitude.js"></script>
+<script>
+  Amplitude.init({
+    "songs": [
+      {
+        "name": "Risin' High (feat Raashan Ahmad)",
+        "artist": "Ancient Astronauts",
+        "album": "We Are to Answer",
+        "url": "https://archive.org/download/calexico2006-12-02..flac16/calexico2006-12-02d1t02.mp3",
+        "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+      },
+      {
+        "name": "Risin' High (feat Raashan Ahmad)",
+        "artist": "Ancient Astronauts",
+        "album": "We Are to Answer",
+        "url": "https://archive.org/download/calexico2006-12-02..flac16/calexico2006-12-02d1t02.mp3",
+        "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+      }
+    ]
+  });
+</script>
