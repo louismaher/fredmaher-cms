@@ -702,8 +702,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div id="meta-container">
                             <span data-amplitude-song-info="name" class="song-name"></span>
-                            <div class="song-artist-album">
-                                <span data-amplitude-song-info="artist"></span>
+                            <div class="song-artist-album">                            <span data-amplitude-song-info="artist"></span>
                                 <span data-amplitude-song-info="album"></span>
                             </div>
                         </div>
