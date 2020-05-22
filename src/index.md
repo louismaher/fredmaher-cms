@@ -964,6 +964,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
 
 
 Paroles et musique Fred Maher  
+
 Fred Maher: guitares, voix  
 Michel Hinton: piano, accordéon  
 Mario Légaré: basses, voix  
@@ -974,7 +975,7 @@ Mix et mastering: Guy Rhéaume
 Vidéo de Cheveux au vent  
 Conception et réalisation: Fred Maher, Serge Morneau  
 Montage: Serge Morneau  
-Photos: Serge Morneau
+Photo: Serge Morneau
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.0.3/dist/amplitude.js"></script>
 <script>
