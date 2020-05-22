@@ -965,11 +965,10 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
 
 Paroles et musique Fred Maher  
 Fred Maher: guitares, voix  
-*Épices secrètes gracieuseté de*  
 Michel Hinton: piano, accordéon  
 Mario Légaré: basses, voix  
 Louis Maher: guitares, yukulele, voix
-  
+
 Enregistrement: Michel Hinton  
 Mix et mastering: Guy Rhéaume  
 Vidéo de Cheveux au vent  
