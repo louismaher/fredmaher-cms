@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: J'attends l'printemps
-permalink: /j-attends-l-printemps/
+permalink: /
 ---
 <style>
 /*
