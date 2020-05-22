@@ -968,9 +968,10 @@ Fred Maher: guitares, voix
 *Épices secrètes gracieuseté de*  
 Michel Hinton: piano, accordéon  
 Mario Légaré: basses, voix  
-Louis Maher: guitares, yukulele, voix  
-Enregistré et mixé à St-Jean-de Matha entre août 2019 et avril 2020 par Michel assisté de Fred.  
-Mastering: Guy Rhéaume  
+Louis Maher: guitares, yukulele, voix
+  
+Enregistrement: Michel Hinton  
+Mix et mastering: Guy Rhéaume  
 Vidéo de Cheveux au vent  
 Conception et réalisation: Fred Maher, Serge Morneau  
 Montage: Serge Morneau  
