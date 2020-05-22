@@ -816,7 +816,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
-                            <span class="song-title">Chu jamais loin</span>
+                            <span class="song-title">Jamais loin</span>
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://russiancircles.bandcamp.com/track/vorel" class="bandcamp-link" target="_blank">
@@ -920,6 +920,40 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">3:05</span>
+                    </div>
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="13">
+                        <div class="song-now-playing-icon-container">
+                            <div class="play-button-container">
+                            </div>
+                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                        </div>
+                        <div class="song-meta-data">
+                            <span class="song-title">Y'a plus rien à dire</span>
+                            <span class="song-artist">Fred Maher</span>
+                            <span class="time-callbacks"></span>
+                        </div>
+                        <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
+                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
+                        </a>
+                        <span class="song-duration">3:07</span>
+                    </div>
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="14">
+                        <div class="song-now-playing-icon-container">
+                            <div class="play-button-container">
+                            </div>
+                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                        </div>
+                        <div class="song-meta-data">
+                            <span class="song-title">Ce n'est pas par hasard</span>
+                            <span class="song-artist">Fred Maher</span>
+                            <span class="time-callbacks"></span>
+                        </div>
+                        <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
+                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
+                        </a>
+                        <span class="song-duration">2:43</span>
                     </div>
                 </div>
                 <!-- End Right Side Player -->
@@ -1095,6 +1129,20 @@ Amplitude.init({
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/si-j-te-trouvais.mp3",
+			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+		},
+    {
+      "name": "Y'a plus rien à dire",
+      "artist": "Fred Maher",
+			"album": "J'attends l'printemps",
+			"url": "/mp3/y-a-plus-rien-a-dire.mp3",
+			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+		},
+    {
+      "name": "Ce n'est pas par hasard",
+      "artist": "Fred Maher",
+			"album": "J'attends l'printemps",
+			"url": "/mp3/ce-n-est-pas-par-hasard.mp3",
 			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
 		}
 	]
