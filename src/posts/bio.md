@@ -1,6 +1,6 @@
 ---
-layout: layouts/home.njk
-title: Depuis l'temps que...
+layout: layouts/post.njk
+title: Bio
 metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
 postsHeading: Nouvelles
