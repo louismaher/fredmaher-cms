@@ -601,13 +601,7 @@ div#meta-container {
 /*
   3. Layout
 */
-body {
-  background-image: -webkit-linear-gradient(316deg, #3BD2AE 0%, #36BAC2 100%);
-  background-image: linear-gradient(-226deg, #3BD2AE 0%, #36BAC2 100%);
-  height: 100vh;
-  -webkit-font-smoothing: antialiased;
-  font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
-  line-height: 1.5; }
+
 div.amplitude-wave-form{
     margin-top: -14px;
 }
@@ -727,6 +721,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-meta-data">
                             <span class="song-title">J'attends l'printemps</span>
                             <span class="song-artist">Fred Maher</span>
+                            <span class="time-callbacks"></span>
                         </div>
                         <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
@@ -1001,11 +996,22 @@ for( var i = 0; i < songElements.length; i++ ){
 Amplitude.init({
 	"songs": [
 		{
-			"name": "J'attends l'printemps",
+      "name": "J'attends l'printemps",
 			"artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/j-attends-l-printemps.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+      "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg",
+      "time_callbacks": {
+      1: function(){
+        console.log( "1 second into the song" )
+      },
+      90: function(){
+        console.log( "1 minute 30 seconds into the song" );
+      },
+      110: function(){
+        console.log( "1 minute 50 seconds into the song" );
+      }
+    }
 		},
 		{
 			"name": "J'ai pas l'choix",
