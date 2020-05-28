@@ -735,48 +735,16 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
-                            <span class="song-title">J'ai pas l'choix</span>
+                            <span class="song-title">Jamais loin</span>
                             <span class="song-artist">Fred Maher</span>
                         </div>
-                        <a href="https://lorn.bandcamp.com/" class="bandcamp-link" target="_blank">
+                        <a href="https://russiancircles.bandcamp.com/track/vorel" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
-                        <span class="song-duration">3:32</span>
+                        <span class="song-duration">2:01</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="2">
-                        <div class="song-now-playing-icon-container">
-                            <div class="play-button-container">
-                            </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
-                        </div>
-                        <div class="song-meta-data">
-                            <span class="song-title">Ainsi soit-il</span>
-                            <span class="song-artist">Fred Maher</span>
-                        </div>
-                        <a href="https://lorn.bandcamp.com/" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
-                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
-                        </a>
-                        <span class="song-duration">2:30</span>
-                    </div>
-                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="3">
-                        <div class="song-now-playing-icon-container">
-                            <div class="play-button-container">
-                            </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
-                        </div>
-                        <div class="song-meta-data">
-                            <span class="song-title">Amoureux seul</span>
-                            <span class="song-artist">Fred Maher</span>
-                        </div>
-                        <a href="https://switchstancerecordings.bandcamp.com/track/i-came-running" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
-                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
-                        </a>
-                        <span class="song-duration">3:41</span>
-                    </div>
-                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="4">
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
@@ -792,55 +760,39 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </a>
                         <span class="song-duration">3:53</span>
                     </div>
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="3">
+                        <div class="song-now-playing-icon-container">
+                            <div class="play-button-container">
+                            </div>
+                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                        </div>
+                        <div class="song-meta-data">
+                            <span class="song-title">Ainsi soit-il</span>
+                            <span class="song-artist">Fred Maher</span>
+                        </div>
+                        <a href="https://lorn.bandcamp.com/" class="bandcamp-link" target="_blank">
+                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
+                        </a>
+                        <span class="song-duration">2:30</span>
+                    </div>
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="4">
+                        <div class="song-now-playing-icon-container">
+                            <div class="play-button-container">
+                            </div>
+                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                        </div>
+                        <div class="song-meta-data">
+                            <span class="song-title">Amoureux seul</span>
+                            <span class="song-artist">Fred Maher</span>
+                        </div>
+                        <a href="https://switchstancerecordings.bandcamp.com/track/i-came-running" class="bandcamp-link" target="_blank">
+                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
+                        </a>
+                        <span class="song-duration">3:41</span>
+                    </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="5">
-                        <div class="song-now-playing-icon-container">
-                            <div class="play-button-container">
-                            </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
-                        </div>
-                        <div class="song-meta-data">
-                            <span class="song-title">En courant</span>
-                            <span class="song-artist">Fred Maher</span>
-                        </div>
-                        <a href="https://pglost.bandcamp.com/track/terrain" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
-                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
-                        </a>
-                        <span class="song-duration">3:02</span>
-                    </div>
-                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="6">
-                        <div class="song-now-playing-icon-container">
-                            <div class="play-button-container">
-                            </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
-                        </div>
-                        <div class="song-meta-data">
-                            <span class="song-title">Jamais loin</span>
-                            <span class="song-artist">Fred Maher</span>
-                        </div>
-                        <a href="https://russiancircles.bandcamp.com/track/vorel" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
-                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
-                        </a>
-                        <span class="song-duration">2:01</span>
-                    </div>
-                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="7">
-                        <div class="song-now-playing-icon-container">
-                            <div class="play-button-container">
-                            </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
-                        </div>
-                        <div class="song-meta-data">
-                            <span class="song-title">Le secret de l'amour</span>
-                            <span class="song-artist">Fred Maher</span>
-                        </div>
-                        <a href="http://jimkata.bandcamp.com/track/intro-sweet-glory" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
-                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
-                        </a>
-                        <span class="song-duration">2:27</span>
-                    </div>
-                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="8">
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
@@ -856,39 +808,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </a>
                         <span class="song-duration">2:50</span>
                     </div>
-                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="9">
-                        <div class="song-now-playing-icon-container">
-                            <div class="play-button-container">
-                            </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
-                        </div>
-                        <div class="song-meta-data">
-                            <span class="song-title">Marcher</span>
-                            <span class="song-artist">Fred Maher</span>
-                        </div>
-                        <a href="https://emancipator.bandcamp.com/track/dusk-to-dawn-2" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
-                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
-                        </a>
-                        <span class="song-duration">3:01</span>
-                    </div>
-                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="10">
-                        <div class="song-now-playing-icon-container">
-                            <div class="play-button-container">
-                            </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
-                        </div>
-                        <div class="song-meta-data">
-                            <span class="song-title">Masson</span>
-                            <span class="song-artist">Fred Maher</span>
-                        </div>
-                        <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
-                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
-                        </a>
-                        <span class="song-duration">2:53</span>
-                    </div>
-                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="11">
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="6">
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
@@ -904,7 +824,39 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </a>
                         <span class="song-duration">3:28</span>
                     </div>
-                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="12">
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="7">
+                        <div class="song-now-playing-icon-container">
+                            <div class="play-button-container">
+                            </div>
+                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                        </div>
+                        <div class="song-meta-data">
+                            <span class="song-title">En courant</span>
+                            <span class="song-artist">Fred Maher</span>
+                        </div>
+                        <a href="https://pglost.bandcamp.com/track/terrain" class="bandcamp-link" target="_blank">
+                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
+                        </a>
+                        <span class="song-duration">3:02</span>
+                    </div>
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="8">
+                        <div class="song-now-playing-icon-container">
+                            <div class="play-button-container">
+                            </div>
+                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                        </div>
+                        <div class="song-meta-data">
+                            <span class="song-title">J'ai pas l'choix</span>
+                            <span class="song-artist">Fred Maher</span>
+                        </div>
+                        <a href="https://lorn.bandcamp.com/" class="bandcamp-link" target="_blank">
+                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
+                        </a>
+                        <span class="song-duration">3:32</span>
+                    </div>
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="9">
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
@@ -920,24 +872,23 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </a>
                         <span class="song-duration">3:05</span>
                     </div>
-                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="13">
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="10">
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
                             <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
-                            <span class="song-title">Y'a plus rien à dire</span>
+                            <span class="song-title">Marcher</span>
                             <span class="song-artist">Fred Maher</span>
-                            <span class="time-callbacks"></span>
                         </div>
-                        <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
+                        <a href="https://emancipator.bandcamp.com/track/dusk-to-dawn-2" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
-                        <span class="song-duration">3:07</span>
+                        <span class="song-duration">3:01</span>
                     </div>
-                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="14">
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="11">
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
@@ -953,6 +904,38 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">2:43</span>
+                    </div>
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="12">
+                        <div class="song-now-playing-icon-container">
+                            <div class="play-button-container">
+                            </div>
+                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                        </div>
+                        <div class="song-meta-data">
+                            <span class="song-title">Masson</span>
+                            <span class="song-artist">Fred Maher</span>
+                        </div>
+                        <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
+                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
+                        </a>
+                        <span class="song-duration">2:53</span>
+                    </div>
+                    <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="13">
+                        <div class="song-now-playing-icon-container">
+                            <div class="play-button-container">
+                            </div>
+                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                        </div>
+                        <div class="song-meta-data">
+                            <span class="song-title">Le secret de l'amour</span>
+                            <span class="song-artist">Fred Maher</span>
+                        </div>
+                        <a href="http://jimkata.bandcamp.com/track/intro-sweet-glory" class="bandcamp-link" target="_blank">
+                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
+                        </a>
+                        <span class="song-duration">2:27</span>
                     </div>
                 </div>
                 <!-- End Right Side Player -->
@@ -1046,75 +1029,40 @@ Amplitude.init({
         console.log( "1 minute 50 seconds into the song" );
       }
     }
-		},
-		{
-			"name": "J'ai pas l'choix",
-			"artist": "Fred Maher",
-			"album": "J'attends l'printemps",
-			"url": "/mp3/j-ai-pas-l-choix.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		},
-		{
-			"name": "Ainsi soit-il",
-			"artist": "Fred Maher",
-			"album": "J'attends l'printemps",
-			"url": "/mp3/ainsi-soit-il.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		},
-		{
-			"name": "Amoureux seul",
-			"artist": "Fred Maher",
-			"album": "J'attends l'printemps",
-			"url": "/mp3/amoureux-seul.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		},
-		{
-      "name": "Cheveux au vent",
-      "artist": "Fred Maher",
-			"album": "J'attends l'printemps",
-			"url": "/mp3/cheveux-au-vent.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		},
-		{
-      "name": "En courant",
-      "artist": "Fred Maher",
-			"album": "J'attends l'printemps",
-			"url": "/mp3/en-courant.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		},
-		{
+    },
+    {
       "name": "Jamais loin",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/jamais-loin.mp3",
 			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		},
-		{
-      "name": "Le secret de l'amour",
+    },
+    {
+      "name": "Cheveux au vent",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
-			"url": "/mp3/le-secret-de-l-amour.mp3",
+			"url": "/mp3/cheveux-au-vent.mp3",
 			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		},
-		{
+    },
+    {
+			"name": "Ainsi soit-il",
+			"artist": "Fred Maher",
+			"album": "J'attends l'printemps",
+			"url": "/mp3/ainsi-soit-il.mp3",
+			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+    },
+    {
+			"name": "Amoureux seul",
+			"artist": "Fred Maher",
+			"album": "J'attends l'printemps",
+			"url": "/mp3/amoureux-seul.mp3",
+			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+    },
+    {
       "name": "Lentement mais sûrement",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/lentement-mais-surement.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		},
-		{
-      "name": "Marcher",
-      "artist": "Fred Maher",
-			"album": "J'attends l'printemps",
-			"url": "/mp3/marcher.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		},
-		{
-      "name": "Masson",
-      "artist": "Fred Maher",
-			"album": "J'attends l'printemps",
-			"url": "/mp3/masson.mp3",
 			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
@@ -1125,26 +1073,54 @@ Amplitude.init({
 			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
+      "name": "En courant",
+      "artist": "Fred Maher",
+			"album": "J'attends l'printemps",
+			"url": "/mp3/en-courant.mp3",
+			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+		},
+		{
+			"name": "J'ai pas l'choix",
+			"artist": "Fred Maher",
+			"album": "J'attends l'printemps",
+			"url": "/mp3/j-ai-pas-l-choix.mp3",
+			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+    },
+    {
       "name": "Si j'te trouvais",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/si-j-te-trouvais.mp3",
 			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		},
+    },
     {
-      "name": "Y'a plus rien à dire",
+      "name": "Marcher",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
-			"url": "/mp3/y-a-plus-rien-a-dire.mp3",
+			"url": "/mp3/marcher.mp3",
 			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		},
+    },
     {
       "name": "Ce n'est pas par hasard",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/ce-n-est-pas-par-hasard.mp3",
 			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
-		}
+    },
+    {
+      "name": "Masson",
+      "artist": "Fred Maher",
+			"album": "J'attends l'printemps",
+			"url": "/mp3/masson.mp3",
+			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+    },
+		{
+      "name": "Le secret de l'amour",
+      "artist": "Fred Maher",
+			"album": "J'attends l'printemps",
+			"url": "/mp3/le-secret-de-l-amour.mp3",
+			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+    }
 	]
 });
 </script>
