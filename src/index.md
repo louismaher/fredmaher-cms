@@ -758,7 +758,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
-                        <span class="song-duration">3:53</span>
+                        <span class="song-duration">3:54</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="3">
                         <div class="song-now-playing-icon-container">
@@ -774,7 +774,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
-                        <span class="song-duration">2:30</span>
+                        <span class="song-duration">2:31</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="4">
                         <div class="song-now-playing-icon-container">
@@ -790,7 +790,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
-                        <span class="song-duration">3:41</span>
+                        <span class="song-duration">3:44</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="5">
                         <div class="song-now-playing-icon-container">
@@ -822,7 +822,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
-                        <span class="song-duration">3:28</span>
+                        <span class="song-duration">3:29</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="7">
                         <div class="song-now-playing-icon-container">
@@ -838,7 +838,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
-                        <span class="song-duration">3:02</span>
+                        <span class="song-duration">3:08</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="8">
                         <div class="song-now-playing-icon-container">
@@ -854,7 +854,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
-                        <span class="song-duration">3:32</span>
+                        <span class="song-duration">3:31</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="9">
                         <div class="song-now-playing-icon-container">
@@ -870,7 +870,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
-                        <span class="song-duration">3:05</span>
+                        <span class="song-duration">3:04</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="10">
                         <div class="song-now-playing-icon-container">
@@ -919,7 +919,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
-                        <span class="song-duration">2:53</span>
+                        <span class="song-duration">2:57</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="13">
                         <div class="song-now-playing-icon-container">
@@ -935,7 +935,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
-                        <span class="song-duration">2:27</span>
+                        <span class="song-duration">2:28</span>
                     </div>
                 </div>
                 <!-- End Right Side Player -->

@@ -9,7 +9,7 @@ socialImage: ""
 ---
 <br>
 
-[![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload/e_sharpen/w_300/bo_1px_solid_rgb:7D7B53/l_text:Georgia_180_300_italic:J'attends%0Al'printemps,g_south_east,x_-80,y_-80,co_rgb:97C85F/b_rgb:F2FCFC/v1581958264/fredmaher.jpg "Photo par Serge Morneau")](/j-attends-l-printemps/)    
+[![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload/e_sharpen/w_300/bo_1px_solid_rgb:7D7B53/l_text:Georgia_180_300_italic:J'attends%0Al'printemps,g_south_east,x_-80,y_-80,co_rgb:97C85F/b_rgb:F2FCFC/v1581958264/fredmaher.jpg "Photo: Serge Morneau")](/j-attends-l-printemps/)    
 
 <br>
 
@@ -23,7 +23,7 @@ Marqué au fer rouge par les Beatles, Robert Charlebois et tant d’autres par l
 rapidement que mon sort en était jeté. Moi aussi, j’écrirais des chansons.
 Et malgré bien des détours, ce désir me poursuit encore et toujours.
 
-V'là mes tounes! [*J'attends l'printemps*](/j-attends-l-printemps/)🌱
+Écoutez [*J'attends l'printemps*](/)🌱
 
 En passant, j'm’appelle Frédéric, mais tout l’monde m’appelle Fred.
 
