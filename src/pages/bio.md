@@ -1,10 +1,8 @@
 ---
-layout: layouts/post.njk
+layout: layouts/page.njk
 title: J'm’appelle Frédéric, mais tout l’monde m’appelle Fred
 metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
-postsHeading: Nouvelles
-archiveButtonText: Voir toutes les nouvelles
 socialImage: ""
 ---
 
