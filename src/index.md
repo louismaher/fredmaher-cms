@@ -1,6 +1,7 @@
 ---
-layout: layouts/page.njk
+layout: layouts/post.njk
 title: J'attends l'printemps
+metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.
 permalink: /
 ---
 <style>
@@ -11,6 +12,7 @@ permalink: /
 /*
   2. Components
 */
+
 div#amplitude-player {
   background: #FFFFFF;
   box-shadow: 0 2px 12px 8px rgba(0, 0, 0, 0.1);
@@ -42,7 +44,7 @@ div#amplitude-left {
     width: 100%; }
   div#amplitude-left div#player-left-bottom {
     flex: 1;
-    background-color: #F1F1F1;
+    background-color:transparent;
     padding: 20px 10px; }
     div#amplitude-left div#player-left-bottom div#volume-container:after {
       content: "";
@@ -161,23 +163,23 @@ div#progress-container {
     /* Needed for Firefox */ }
   @media all and (-ms-high-contrast: none) {
     div#progress-container *::-ms-backdrop, div#progress-container progress#song-played-progress {
-      color: #00A0FF;
+      color: #96C75D;
       border: none;
       background-color: #CFD8DC; } }
   @supports (-ms-ime-align: auto) {
     div#progress-container progress#song-played-progress {
-      color: #00A0FF;
+      color: #96C75D;
       border: none; } }
   div#progress-container progress#song-played-progress[value]::-webkit-progress-bar {
     background: none;
     border-radius: 5px; }
   div#progress-container progress#song-played-progress[value]::-webkit-progress-value {
-    background-color: #00A0FF;
+    background-color: #96C75D;
     border-radius: 5px; }
   div#progress-container progress#song-played-progress::-moz-progress-bar {
     background: none;
     border-radius: 5px;
-    background-color: #00A0FF;
+    background-color: #96C75D;
     height: 5px;
     margin-top: -2px; }
   div#progress-container progress#song-buffered-progress {
@@ -244,11 +246,11 @@ div#progress-container {
     border: 0px solid #010101; }
   div#progress-container input[type=range]::-webkit-slider-thumb {
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-    border: 1px solid #00a0ff;
+    border: 1px solid #96C75D;
     height: 15px;
     width: 15px;
     border-radius: 16px;
-    background: #00a0ff;
+    background: #96C75D;
     cursor: pointer;
     -webkit-appearance: none;
     margin-top: -7.5px; }
@@ -264,11 +266,11 @@ div#progress-container {
     border: 0px solid #010101; }
   div#progress-container input[type=range]::-moz-range-thumb {
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-    border: 1px solid #00a0ff;
+    border: 1px solid #96C75D;
     height: 15px;
     width: 15px;
     border-radius: 16px;
-    background: #00a0ff;
+    background: #96C75D;
     cursor: pointer; }
   div#progress-container input[type=range]::-ms-track {
     width: 100%;
@@ -289,11 +291,11 @@ div#progress-container {
     box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(13, 13, 13, 0); }
   div#progress-container input[type=range]::-ms-thumb {
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-    border: 1px solid #00a0ff;
+    border: 1px solid #96C75D;
     height: 15px;
     width: 15px;
     border-radius: 16px;
-    background: #00a0ff;
+    background: #96C75D;
     cursor: pointer;
     height: 0px;
     display: block; }
@@ -339,7 +341,7 @@ div#control-container {
       div#control-container div#repeat-container div#repeat.amplitude-repeat-off {
         background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/repeat-off.svg"); }
       div#control-container div#repeat-container div#repeat.amplitude-repeat-on {
-        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/repeat-on.svg"); }
+        background: url("images/repeat-on.svg"); }
     div#control-container div#repeat-container div#shuffle {
       width: 23px;
       height: 19px;
@@ -348,7 +350,7 @@ div#control-container {
       div#control-container div#repeat-container div#shuffle.amplitude-shuffle-off {
         background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/shuffle-off.svg"); }
       div#control-container div#repeat-container div#shuffle.amplitude-shuffle-on {
-        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/shuffle-on.svg"); }
+        background: url("images/shuffle-on.svg"); }
   @media all and (-ms-high-contrast: none) {
     div#control-container *::-ms-backdrop, div#control-container div#control-container {
       margin-top: 40px;
@@ -364,7 +366,7 @@ div#control-container {
         width: 40px;
         height: 40px;
         cursor: pointer;
-        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/prev.svg");
+        background: url("images/prev.svg");
         background-repeat: no-repeat;
         float: left;
         margin-top: 10px;
@@ -376,15 +378,15 @@ div#control-container {
         cursor: pointer;
         float: left; }
         div#control-container div#central-control-container div#central-controls div#play-pause.amplitude-paused {
-          background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/play.svg"); }
+          background: url("images/play.svg"); }
         div#control-container div#central-control-container div#central-controls div#play-pause.amplitude-playing {
-          background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/pause.svg"); }
+          background: url("images/pause.svg"); }
       div#control-container div#central-control-container div#central-controls div#next {
         display: inline-block;
         width: 40px;
         height: 40px;
         cursor: pointer;
-        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/next.svg");
+        background: url("images/next.svg");
         background-repeat: no-repeat;
         float: left;
         margin-top: 10px;
@@ -495,7 +497,7 @@ input[type=range].amplitude-volume-slider::-webkit-slider-thumb {
   height: 10px;
   width: 10px;
   border-radius: 10px;
-  background: #00A0FF;
+  background: #96C75D;
   cursor: pointer;
   margin-top: -4px;
   -webkit-appearance: none; }
@@ -514,7 +516,7 @@ input[type=range].amplitude-volume-slider::-moz-range-thumb {
   height: 10px;
   width: 10px;
   border-radius: 10px;
-  background: #00A0FF;
+  background: #96C75D;
   cursor: pointer;
   margin-top: -4px; }
 
@@ -542,7 +544,7 @@ input[type=range].amplitude-volume-slider::-ms-thumb {
   height: 10px;
   width: 10px;
   border-radius: 10px;
-  background: #00A0FF;
+  background: #96C75D;
   cursor: pointer;
   margin-top: 2px; }
 
@@ -607,18 +609,18 @@ div.amplitude-wave-form{
 }
       
  div.amplitude-wave-form svg{
-      stroke: #00a0ff;
+      stroke: #96C75D;
       height: 50px;
       width: 100%;
       stroke-width: .5px;
 }
  div.amplitude-wave-form svg g{
-   stroke: #00a0ff;
+   stroke: #96C75D;
    height: 50px;
    width: 100%;
 }
  div.amplitude-wave-form svg g path{
-   stroke: #00a0ff;
+   stroke: #96C75D;
    height: 50px;
    width: 100%;
 }
@@ -655,6 +657,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
 
 > J’vas ben mieux quand j’écoute mon cœur-->
 
+<!--[![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload/e_sharpen/w_300/bo_1px_solid_rgb:7D7B53/l_text:Lora_180_300_italic:J'attends%0Al'printemps,g_south_east,x_-80,y_-80,co_rgb:97C85F/b_rgb:F2FCFC/v1581958264/fredmaher.jpg "Photo: Serge Morneau")](/j-attends-l-printemps/)--> 
 <div id="blue-playlist-container">
             <!-- Amplitude Player -->
             <div id="amplitude-player">
@@ -715,7 +718,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">J'attends l'printemps</span>
@@ -732,7 +735,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Jamais loin</span>
@@ -748,7 +751,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Cheveux au vent</span>
@@ -764,7 +767,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Ainsi soit-il</span>
@@ -780,7 +783,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Amoureux seul</span>
@@ -796,7 +799,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Lentement mais sûrement</span>
@@ -812,7 +815,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">On a eu peur</span>
@@ -828,7 +831,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">En courant</span>
@@ -844,7 +847,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">J'ai pas l'choix</span>
@@ -860,7 +863,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Si j'te trouvais</span>
@@ -876,7 +879,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Marcher</span>
@@ -892,7 +895,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Ce n'est pas par hasard</span>
@@ -909,7 +912,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Masson</span>
@@ -925,7 +928,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Le secret de l'amour</span>
@@ -943,10 +946,9 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
             <!-- End Amplitdue Player -->
 
 </div>
+<br>
 
-
-
-Paroles et musique Fred Maher  
+Paroles et musique Fred Maher 
 
 Fred Maher: guitares, voix  
 Michel Hinton: piano, accordéon  
@@ -978,7 +980,7 @@ for( var i = 0; i < songElements.length; i++ ){
 		Ensure that on mouseover, CSS styles don't get messed up for active songs.
 	*/
 	songElements[i].addEventListener('mouseover', function(){
-		this.style.backgroundColor = '#00A0FF';
+		this.style.backgroundColor = '#96C75D';
 		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#FFFFFF';
 		this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#FFFFFF';
 		if( !this.classList.contains('amplitude-active-song-container') ){

@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "text": "Bio",
+      "text": "Fred ?",
       "url": "/posts/bio/index.html",
       "external": false
     },
@@ -13,11 +13,6 @@
     {
       "text": "Youtube",
       "url": "https://www.youtube.com/channel/UCa6Mu7rVQ7BOkmsXrAFZRXQ",
-      "external": true
-    },
-    {
-      "text": "Facebook",
-      "url": "https://twitter.com/hankchizljaw",
       "external": true
     }
   ]
