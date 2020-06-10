@@ -742,7 +742,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://russiancircles.bandcamp.com/track/vorel" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">2:01</span>
@@ -758,7 +758,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://emancipator.bandcamp.com" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">3:54</span>
@@ -774,7 +774,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://lorn.bandcamp.com/" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">2:31</span>
@@ -790,7 +790,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://switchstancerecordings.bandcamp.com/track/i-came-running" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">3:44</span>
@@ -806,7 +806,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://littlepeople.bandcamp.com/track/offcut-6" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">2:50</span>
@@ -822,7 +822,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">3:29</span>
@@ -838,7 +838,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://pglost.bandcamp.com/track/terrain" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">3:08</span>
@@ -854,7 +854,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://lorn.bandcamp.com/" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">3:31</span>
@@ -870,7 +870,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://emancipator.bandcamp.com/track/anthem" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">3:04</span>
@@ -886,7 +886,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://emancipator.bandcamp.com/track/dusk-to-dawn-2" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">3:01</span>
@@ -903,7 +903,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="time-callbacks"></span>
                         </div>
                         <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">2:43</span>
@@ -919,7 +919,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">2:57</span>
@@ -935,7 +935,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="song-artist">Fred Maher</span>
                         </div>
                         <a href="http://jimkata.bandcamp.com/track/intro-sweet-glory" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">2:28</span>
