@@ -410,7 +410,7 @@ div#control-container {
     height: 19px;
     float: left; }
     div#control-container div.amplitude-mute.amplitude-not-muted {
-      background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-players/volume.svg");
+      background: url("images/volume.svg");
       background-repeat: no-repeat; }
     div#control-container div.amplitude-mute.amplitude-muted {
       background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/mute.svg");
