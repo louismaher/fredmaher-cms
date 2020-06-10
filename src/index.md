@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
+layout: layouts/page
 title: J'attends l'printemps
-metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.
+metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
 permalink: /
 ---
 <style>
@@ -726,7 +726,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             <span class="time-callbacks"></span>
                         </div>
                         <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
                             <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
                         </a>
                         <span class="song-duration">3:33</span>
