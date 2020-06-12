@@ -240,7 +240,7 @@ div#progress-container {
     height: 0px;
     cursor: pointer;
     box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(13, 13, 13, 0);
-    background: #0075a9;
+    background: #fff;
     border-radius: 0px;
     border: 0px solid #010101; }
   div#progress-container input[type=range]::-webkit-slider-thumb {
@@ -338,7 +338,7 @@ div#control-container {
       height: 19px;
       cursor: pointer; }
       div#control-container div#repeat-container div#repeat.amplitude-repeat-off {
-        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/repeat-off.svg"); }
+        background: url("images/repeat-off.svg"); }
       div#control-container div#repeat-container div#repeat.amplitude-repeat-on {
         background: url("images/repeat-on.svg"); }
     div#control-container div#repeat-container div#shuffle {
