@@ -90,18 +90,18 @@ div#amplitude-right {
       float: left;
       width: calc( 100% - 110px ); }
       div#amplitude-right div.song div.song-meta-data span.song-title {
-        color: #272726;
+        color: #6ea43b;
         font-size: 16px;
         display: block;
-        font-weight: 300;
+        font-weight: 700;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis; }
       div#amplitude-right div.song div.song-meta-data span.song-artist {
-        color: #607D8B;
+        color: #fff;
         font-size: 14px;
-        font-weight: bold;
-        text-transform: uppercase;
+        font-weight: 400;
+        
         display: block;
         white-space: nowrap;
         overflow: hidden;
@@ -119,7 +119,7 @@ div#amplitude-right {
       width: 55px;
       text-align: center;
       line-height: 45px;
-      color: #607D8B;
+      color: #6ea43b;
       font-size: 16px;
       font-weight: 500; }
   div#amplitude-right div.song:after {
@@ -311,10 +311,10 @@ div#progress-container {
       border-width: 15px 0;
       border-color: transparent; }
     div#progress-container *::-ms-backdrop, div#progress-container input[type=range].amplitude-song-slider::-ms-fill-lower {
-      background: #CFD8DC;
+      background: #ffffff;
       border-radius: 10px; }
     div#progress-container *::-ms-backdrop, div#progress-container input[type=range].amplitude-song-slider::-ms-fill-upper {
-      background: #CFD8DC;
+      background: #ffffff;
       border-radius: 10px; } }
   @supports (-ms-ime-align: auto) {
     div#progress-container input[type=range].amplitude-song-slider::-ms-thumb {
@@ -347,7 +347,7 @@ div#control-container {
       cursor: pointer;
       float: right; }
       div#control-container div#repeat-container div#shuffle.amplitude-shuffle-off {
-        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/shuffle-off.svg"); }
+        background: url("images/shuffle-off.svg"); }
       div#control-container div#repeat-container div#shuffle.amplitude-shuffle-on {
         background: url("images/shuffle-on.svg"); }
   @media all and (-ms-high-contrast: none) {
@@ -402,7 +402,7 @@ div#control-container {
       div#control-container div#volume-container div#shuffle-right.amplitude-shuffle-off {
         background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/shuffle-off.svg"); }
       div#control-container div#volume-container div#shuffle-right.amplitude-shuffle-on {
-        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/shuffle-on.svg"); }
+        background: url("images/shuffle-on.svg"); }
   div#control-container div.amplitude-mute {
     cursor: pointer;
     width: 25px;
@@ -557,14 +557,14 @@ input[type=range].amplitude-volume-slider::-ms-tooltip {
   display: none; }
 
 div#time-container span.current-time {
-  color: #607D8B;
+  color: #ffffff;
   font-size: 14px;
   font-weight: 700;
   float: left;
   width: 15%;
   text-align: center; }
 div#time-container span.duration {
-  color: #607D8B;
+  color: #ffffff;
   font-size: 14px;
   font-weight: 700;
   float: left;
@@ -581,14 +581,14 @@ div#meta-container {
   margin-top: 5px; }
   div#meta-container span.song-name {
     display: block;
-    color: #272726;
+    color: #6ea43b;
     font-size: 20px;
     font-family: 'Open Sans', sans-serif;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis; }
   div#meta-container div.song-artist-album {
-    color: #607D8B;
+    color: #ffffff;
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
@@ -612,6 +612,7 @@ div.amplitude-wave-form{
       height: 50px;
       width: 100%;
       stroke-width: .5px;
+      display:none;
 }
  div.amplitude-wave-form svg g{
    stroke: #96C75D;
@@ -947,6 +948,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
 </div>
 <br>
 <h1 class="[ text-800 md:text-900 leading-tight ] [ p-name ]">J'attends l'printemps</h1>
+
 Paroles et musique Fred Maher 
 
 Fred Maher: guitares, voix  
@@ -979,27 +981,27 @@ for( var i = 0; i < songElements.length; i++ ){
 		Ensure that on mouseover, CSS styles don't get messed up for active songs.
 	*/
 	songElements[i].addEventListener('mouseover', function(){
-		this.style.backgroundColor = '#96C75D';
-		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = 'transparent';
-		this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#FFFFFF';
+		this.style.backgroundColor = 'transparent';
+		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#6ea43b';
+		this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#fff';
 		if( !this.classList.contains('amplitude-active-song-container') ){
 			this.querySelectorAll('.play-button-container')[0].style.display = 'block';
 		}
 		this.querySelectorAll('img.bandcamp-grey')[0].style.display = 'none';
 		this.querySelectorAll('img.bandcamp-white')[0].style.display = 'block';
-		this.querySelectorAll('.song-duration')[0].style.color = '#FFFFFF';
+		this.querySelectorAll('.song-duration')[0].style.color = '#6ea43b';
 	});
 	/*
 		Ensure that on mouseout, CSS styles don't get messed up for active songs.
 	*/
 	songElements[i].addEventListener('mouseout', function(){
-		this.style.backgroundColor = '#FFFFFF';
-		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#272726';
-		this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#607D8B';
+		this.style.backgroundColor = 'transparent';
+		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#6ea43b';
+		this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#ffffff';
 		this.querySelectorAll('.play-button-container')[0].style.display = 'none';
 		this.querySelectorAll('img.bandcamp-grey')[0].style.display = 'block';
 		this.querySelectorAll('img.bandcamp-white')[0].style.display = 'none';
-		this.querySelectorAll('.song-duration')[0].style.color = '#607D8B';
+		this.querySelectorAll('.song-duration')[0].style.color = '#6ea43b';
 	});
 	/*
 		Show and hide the play button container on the song when the song is clicked.

@@ -22,7 +22,7 @@
                                             <use xlink:href="#path-1"></use>
                                         </mask>
                                         <g id="Clip-2"></g>
-                                        <polygon id="Fill-1" fill="#97c963" mask="url(#mask-2)" points="0 24.001875 24.001875 24.001875 24.001875 0 0 0"></polygon>
+                                        <polygon id="Fill-1" fill="#6ea43b" mask="url(#mask-2)" points="0 24.001875 24.001875 24.001875 24.001875 0 0 0"></polygon>
                                     </g>
                                     <g id="Group-6" transform="translate(12.746250, 8.690625)">
                                         <mask id="mask-4" fill="white">
