@@ -1,5 +1,5 @@
 ---
-layout: layouts/page
+layout: layouts/home
 title: J'attends l'printemps
 metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
 permalink: /
@@ -13,10 +13,10 @@ permalink: /
   2. Components
 */
 div#amplitude-player {
-  background: #FFFFFF;
-  box-shadow: 0 2px 12px 8px rgba(0, 0, 0, 0.1);
+  background: transparent;
+  /*box-shadow: 0 2px 12px 8px rgba(0, 0, 0, 0.1);*/
   margin: auto;
-  margin-top: 20px;
+  margin-top: 80px;
   margin-bottom: 20px;
   display: flex;
   max-width: 900px; }
@@ -35,7 +35,7 @@ div#amplitude-player {
     max-height: 715px; } }
 div#amplitude-left {
   padding: 0px;
-  border-right: 1px solid #CFD8DC;
+  border-right: 0px solid #CFD8DC;
   width: 50%;
   display: flex;
   flex-direction: column; }
@@ -946,7 +946,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
 
 </div>
 <br>
-<h1 class="[ text-800 md:text-900 leading-tight ] [ p-name ]">*J'attends l'printemps*</h1>
+<h1 class="[ text-800 md:text-900 leading-tight ] [ p-name ]">J'attends l'printemps</h1>
 Paroles et musique Fred Maher 
 
 Fred Maher: guitares, voix  
