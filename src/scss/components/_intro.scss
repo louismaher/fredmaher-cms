@@ -1,5 +1,8 @@
 .intro {
   background: var(--color-theme-highlight-block);
+  h1 {
+    font-style:italic
+}
   
   &__summary {
     --flow-space: #{get-size(500)};

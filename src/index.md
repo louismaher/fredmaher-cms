@@ -946,7 +946,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
 
 </div>
 <br>
-<h1 class="[ intro__heading intro__heading ] [ text-800 md:text-max leading-tight ] [ p-name ]">* J'attends l'printemps *</h1>
+<h1 class="[ text-800 md:text-900 leading-tight ] [ p-name ]">*J'attends l'printemps*</h1>
 Paroles et musique Fred Maher 
 
 Fred Maher: guitares, voix  
