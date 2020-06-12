@@ -980,7 +980,7 @@ for( var i = 0; i < songElements.length; i++ ){
 	*/
 	songElements[i].addEventListener('mouseover', function(){
 		this.style.backgroundColor = '#96C75D';
-		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#FFFFFF';
+		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = 'transparent';
 		this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#FFFFFF';
 		if( !this.classList.contains('amplitude-active-song-container') ){
 			this.querySelectorAll('.play-button-container')[0].style.display = 'block';
