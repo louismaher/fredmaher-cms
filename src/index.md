@@ -12,7 +12,6 @@ permalink: /
 /*
   2. Components
 */
-
 div#amplitude-player {
   background: #FFFFFF;
   box-shadow: 0 2px 12px 8px rgba(0, 0, 0, 0.1);
@@ -947,7 +946,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
 
 </div>
 <br>
-
+<h1 class="[ intro__heading intro__heading ] [ text-800 md:text-900 leading-tight ] [ p-name ]">J'attends l'printemps</h1>
 Paroles et musique Fred Maher 
 
 Fred Maher: guitares, voix  
