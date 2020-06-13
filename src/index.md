@@ -97,7 +97,7 @@ div#amplitude-right {
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
-        padding-top:12px }
+        padding-top:10px }
       div#amplitude-right div.song div.song-meta-data span.song-artist {
         color: #fff;
         font-size: 14px;
