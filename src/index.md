@@ -711,7 +711,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                             </div>-->
                             <br>
                             <button class="[ button ] [ font-base text-base weight-bold ]">
-          🌱 J'attends l'printemps  <br>est disponible sur Bandcamp
+          🌱 L'album J'attends l'printemps  <br>est disponible sur Bandcamp
         </button>
                         </div>
                     </div>
@@ -950,10 +950,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
             </div>
             <!-- End Amplitdue Player -->
 </div>
-<br>
-<h1 class="[ text-800 md:text-900 leading-tight ] [ p-name ]">J'attends l'printemps</h1>
-
-Paroles et musique Fred Maher 
+<h4>Paroles et musique: Fred Maher</h4>
 
 Fred Maher: guitares, voix  
 Michel Hinton: piano, accordéon  
