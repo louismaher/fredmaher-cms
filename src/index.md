@@ -950,7 +950,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
             </div>
             <!-- End Amplitdue Player -->
 </div>
-<h4>Paroles et musique: Fred Maher</h4>
+<h3>Paroles et musique: Fred Maher</h3>
 
 Fred Maher: guitares, voix  
 Michel Hinton: piano, accordéon  
