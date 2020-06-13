@@ -1,5 +1,5 @@
 ---
-layout: layouts/home
+layout: layouts/page
 title: J'attends l'printemps
 metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
 permalink: /
@@ -16,10 +16,10 @@ div#amplitude-player {
   background: transparent;
   /*box-shadow: 0 2px 12px 8px rgba(0, 0, 0, 0.1);*/
   margin: auto;
-  margin-top: 80px;
+  margin-top: 0px;
   margin-bottom: 20px;
   display: flex;
-  max-width: 900px; }
+  max-width: 1200px; }
 
 /* Small only */
 @media screen and (max-width: 39.9375em) {
@@ -96,12 +96,12 @@ div#amplitude-right {
         font-weight: 700;
         white-space: nowrap;
         overflow: hidden;
-        text-overflow: ellipsis; }
+        text-overflow: ellipsis;
+        padding-top:12px }
       div#amplitude-right div.song div.song-meta-data span.song-artist {
         color: #fff;
         font-size: 14px;
         font-weight: 400;
-        
         display: block;
         white-space: nowrap;
         overflow: hidden;
@@ -109,7 +109,8 @@ div#amplitude-right {
     div#amplitude-right div.song img.bandcamp-grey {
       float: left;
       display: block;
-      margin-top: 10px; }
+      margin-top: 10px;
+      display:none }
     div#amplitude-right div.song img.bandcamp-white {
       float: left;
       display: none;
@@ -162,23 +163,23 @@ div#progress-container {
     /* Needed for Firefox */ }
   @media all and (-ms-high-contrast: none) {
     div#progress-container *::-ms-backdrop, div#progress-container progress#song-played-progress {
-      color: #96C75D;
+      color: #ffffff;
       border: none;
       background-color: #CFD8DC; } }
   @supports (-ms-ime-align: auto) {
     div#progress-container progress#song-played-progress {
-      color: #96C75D;
+      color: #ffffff;
       border: none; } }
   div#progress-container progress#song-played-progress[value]::-webkit-progress-bar {
     background: none;
     border-radius: 5px; }
   div#progress-container progress#song-played-progress[value]::-webkit-progress-value {
-    background-color: #96C75D;
+    background-color: #ffffff;
     border-radius: 5px; }
   div#progress-container progress#song-played-progress::-moz-progress-bar {
     background: none;
     border-radius: 5px;
-    background-color: #96C75D;
+    background-color: #ffffff;
     height: 5px;
     margin-top: -2px; }
   div#progress-container progress#song-buffered-progress {
@@ -240,16 +241,16 @@ div#progress-container {
     height: 0px;
     cursor: pointer;
     box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(13, 13, 13, 0);
-    background: #fff;
+    background: #0075a9;
     border-radius: 0px;
     border: 0px solid #010101; }
   div#progress-container input[type=range]::-webkit-slider-thumb {
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-    border: 1px solid #96C75D;
+    border: 1px solid #ffffff;
     height: 15px;
     width: 15px;
     border-radius: 16px;
-    background: #96C75D;
+    background: #ffffff;
     cursor: pointer;
     -webkit-appearance: none;
     margin-top: -7.5px; }
@@ -265,11 +266,11 @@ div#progress-container {
     border: 0px solid #010101; }
   div#progress-container input[type=range]::-moz-range-thumb {
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-    border: 1px solid #96C75D;
+    border: 1px solid #ffffff;
     height: 15px;
     width: 15px;
     border-radius: 16px;
-    background: #96C75D;
+    background: #ffffff;
     cursor: pointer; }
   div#progress-container input[type=range]::-ms-track {
     width: 100%;
@@ -290,11 +291,11 @@ div#progress-container {
     box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(13, 13, 13, 0); }
   div#progress-container input[type=range]::-ms-thumb {
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-    border: 1px solid #96C75D;
+    border: 1px solid #ffffff;
     height: 15px;
     width: 15px;
     border-radius: 16px;
-    background: #96C75D;
+    background: #ffffff;
     cursor: pointer;
     height: 0px;
     display: block; }
@@ -496,7 +497,7 @@ input[type=range].amplitude-volume-slider::-webkit-slider-thumb {
   height: 10px;
   width: 10px;
   border-radius: 10px;
-  background: #96C75D;
+  background: #ffffff;
   cursor: pointer;
   margin-top: -4px;
   -webkit-appearance: none; }
@@ -515,7 +516,7 @@ input[type=range].amplitude-volume-slider::-moz-range-thumb {
   height: 10px;
   width: 10px;
   border-radius: 10px;
-  background: #96C75D;
+  background: #ffffff;
   cursor: pointer;
   margin-top: -4px; }
 
@@ -543,7 +544,7 @@ input[type=range].amplitude-volume-slider::-ms-thumb {
   height: 10px;
   width: 10px;
   border-radius: 10px;
-  background: #96C75D;
+  background: #ffffff;
   cursor: pointer;
   margin-top: 2px; }
 
@@ -608,19 +609,19 @@ div.amplitude-wave-form{
 }
       
  div.amplitude-wave-form svg{
-      stroke: #96C75D;
+      stroke: #ffffff;
       height: 50px;
       width: 100%;
       stroke-width: .5px;
       display:none;
 }
  div.amplitude-wave-form svg g{
-   stroke: #96C75D;
+   stroke: #ffffff;
    height: 50px;
    width: 100%;
 }
  div.amplitude-wave-form svg g path{
-   stroke: #96C75D;
+   stroke: #ffffff;
    height: 50px;
    width: 100%;
 }
@@ -705,9 +706,13 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div id="meta-container">
                             <span data-amplitude-song-info="name" class="song-name"></span>
-                            <div class="song-artist-album">                            <span data-amplitude-song-info="artist"></span>
+                            <!--<div class="song-artist-album">                            <span data-amplitude-song-info="artist"></span>
                                 <span data-amplitude-song-info="album"></span>
-                            </div>
+                            </div>-->
+                            <br>
+                            <button class="[ button ] [ font-base text-base weight-bold ]">
+          🌱 J'attends l'printemps  <br>est disponible sur Bandcamp
+        </button>
                         </div>
                     </div>
                 </div>
@@ -722,8 +727,8 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">J'attends l'printemps</span>
-                            <span class="song-artist">Fred Maher</span>
-                            <span class="time-callbacks"></span>
+                            <!--<span class="song-artist">Fred Maher</span>
+                            <span class="time-callbacks"></span>-->
                         </div>
                         <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -739,7 +744,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Jamais loin</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="https://russiancircles.bandcamp.com/track/vorel" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -755,7 +760,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Cheveux au vent</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="https://emancipator.bandcamp.com" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -771,7 +776,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Ainsi soit-il</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="https://lorn.bandcamp.com/" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -787,7 +792,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Amoureux seul</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="https://switchstancerecordings.bandcamp.com/track/i-came-running" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -803,7 +808,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Lentement mais sûrement</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="https://littlepeople.bandcamp.com/track/offcut-6" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -819,7 +824,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">On a eu peur</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -835,7 +840,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">En courant</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="https://pglost.bandcamp.com/track/terrain" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -851,7 +856,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">J'ai pas l'choix</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="https://lorn.bandcamp.com/" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -867,7 +872,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Si j'te trouvais</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="https://emancipator.bandcamp.com/track/anthem" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -883,7 +888,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Marcher</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="https://emancipator.bandcamp.com/track/dusk-to-dawn-2" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -899,7 +904,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Ce n'est pas par hasard</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                             <span class="time-callbacks"></span>
                         </div>
                         <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
@@ -916,7 +921,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Masson</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -932,7 +937,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Le secret de l'amour</span>
-                            <span class="song-artist">Fred Maher</span>
+                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
                         <a href="http://jimkata.bandcamp.com/track/intro-sweet-glory" class="bandcamp-link" target="_blank">
                             <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
@@ -944,7 +949,6 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
                 <!-- End Right Side Player -->
             </div>
             <!-- End Amplitdue Player -->
-
 </div>
 <br>
 <h1 class="[ text-800 md:text-900 leading-tight ] [ p-name ]">J'attends l'printemps</h1>
