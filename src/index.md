@@ -1,5 +1,5 @@
 ---
-layout: layouts/page
+layout: layouts/home
 title: J'attends l'printemps
 metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
 permalink: /
@@ -83,7 +83,7 @@ div#amplitude-right {
     div#amplitude-right div.song div.play-button-container:hover {
       background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/list-play-hover.png") no-repeat; }
     div#amplitude-right div.song.amplitude-active-song-container div.song-now-playing-icon-container img.now-playing {
-      display: block; }
+      display: block;}
     div#amplitude-right div.song.amplitude-active-song-container:hover div.play-button-container {
       display: none; }
     div#amplitude-right div.song div.song-meta-data {
@@ -950,7 +950,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
             </div>
             <!-- End Amplitdue Player -->
 </div>
-<h3>Paroles et musique: Fred Maher</h3>
+<h4>Paroles et musique: Fred Maher</h4>
 
 Fred Maher: guitares, voix  
 Michel Hinton: piano, accordéon  
