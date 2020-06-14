@@ -12,11 +12,12 @@ permalink: /
 /*
   2. Components
 */
+h1{font-style:italic}
 div#amplitude-player {
   background: transparent;
   /*box-shadow: 0 2px 12px 8px rgba(0, 0, 0, 0.1);*/
   margin: auto;
-  margin-top: 0px;
+  margin-top: 80px;
   margin-bottom: 20px;
   display: flex;
   max-width: 1200px; }
@@ -646,20 +647,6 @@ div#large-visualization{
 
 /*# sourceMappingURL=app.css.map */
 </style>
-<!--![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg "Photo par Serge Morneau")
-
-L’heure était donc venue d’aller à la rencontre de mon printemps. Pour ce faire, je devais le créer de toutes pièces. Mots d’ordre : Sois toi. Assume ! Go !
- 
-> Chu un vieil arbre résineux\
-Chu né en hiver\
-J’pousse tout d’travers...
-
-Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d’air de ma vie.
-
-> J’vas ben mieux quand j’écoute mon cœur-->
-
-<!--[![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload/e_sharpen/w_300/bo_1px_solid_rgb:7D7B53/l_text:Lora_180_300_italic:J'attends%0Al'printemps,g_south_east,x_-80,y_-80,co_rgb:97C85F/b_rgb:F2FCFC/v1581958264/fredmaher.jpg "Photo: Serge Morneau")](/j-attends-l-printemps/)--> 
-
 <div id="blue-playlist-container">
             <!-- Amplitude Player -->
             <div id="amplitude-player">
