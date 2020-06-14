@@ -1,11 +1,4 @@
 .intro {
-  background: var(--color-theme-highlight-block);
-  color: var(--color-primary-glare);
- /* h1 {
-    font-style:italic;
-    color:#6ea43b;
-}*/
-  
   &__summary {
     --flow-space: #{get-size(500)};
     font-size: get-size(500);
