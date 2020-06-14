@@ -659,6 +659,7 @@ Au début j’ai eu peur, une fois parti j’ai pris la plus grosse bouffée d�
 > J’vas ben mieux quand j’écoute mon cœur-->
 
 <!--[![Pochette de l'album J'attends l'printemps de Fred Maher](https://res.cloudinary.com/wikilouis/image/upload/e_sharpen/w_300/bo_1px_solid_rgb:7D7B53/l_text:Lora_180_300_italic:J'attends%0Al'printemps,g_south_east,x_-80,y_-80,co_rgb:97C85F/b_rgb:F2FCFC/v1581958264/fredmaher.jpg "Photo: Serge Morneau")](/j-attends-l-printemps/)--> 
+
 <div id="blue-playlist-container">
             <!-- Amplitude Player -->
             <div id="amplitude-player">
