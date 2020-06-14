@@ -1,5 +1,5 @@
 ---
-layout: layouts/home
+layout: layouts/post.njk
 title: J'attends l'printemps
 metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
 permalink: /
@@ -17,8 +17,8 @@ div#amplitude-player {
   background: transparent;
   /*box-shadow: 0 2px 12px 8px rgba(0, 0, 0, 0.1);*/
   margin: auto;
-  margin-top: 80px;
-  margin-bottom: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   display: flex;
   max-width: 1200px; }
 
@@ -971,7 +971,7 @@ for( var i = 0; i < songElements.length; i++ ){
 	*/
 	songElements[i].addEventListener('mouseover', function(){
 		this.style.backgroundColor = 'transparent';
-		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#6ea43b';
+		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#ffffff';
 		this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#ffffff';
 		if( !this.classList.contains('amplitude-active-song-container') ){
 			this.querySelectorAll('.play-button-container')[0].style.display = 'block';
