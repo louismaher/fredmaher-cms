@@ -1,7 +1,7 @@
 .intro {
   &__summary {
     --flow-space: #{get-size(500)};
-    font-size: get-size(500);
+    font-size: get-size(200);
 
     a {
       color: currentColor;
