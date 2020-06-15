@@ -15,6 +15,7 @@ permalink: /
   2. Components
 */
 h1{font-style:italic}
+#blue-playlist-container{margin-top:80px}
 div#amplitude-player {
   background: transparent;
   /*box-shadow: 0 2px 12px 8px rgba(0, 0, 0, 0.1);*/
