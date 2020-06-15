@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Test
 metaTitle: Vidéo de Cheveux au vent
 metaDesc: Vidéo de Cheveux au vent
-postsHeading: Nouvelles
+postHeading: Nouvelles
 archiveButtonText: Voir toutes les nouvelles
 date: 2020-03-09T15:10:11.506Z
 tags:
