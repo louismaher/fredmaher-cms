@@ -18,7 +18,9 @@ Marqué au fer rouge par les Beatles, Robert Charlebois et tant d’autres par l
 rapidement que mon sort en était jeté. Moi aussi, j’écrirais des chansons.
 Et malgré bien des détours, ce désir me poursuit encore et toujours.
 
-Écoutez [*J'attends l'printemps*](/)🌱
+<button class="[ button ] [ font-base text-base weight-bold ]">[Écoutez *J'attends l'printemps*](/)🌱
+        </button>
 
-En passant, j'm’appelle Frédéric, mais tout l’monde m’appelle Fred.
+
+En passant, j'm’appelle Frédéric, mais tout l’monde m’appelle Fred. :-)
 
