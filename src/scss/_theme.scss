@@ -51,6 +51,9 @@ main {
   color: var(--color-selection-text);
   background-color: var(--color-selection-text);
 }
+.post__footer {
+  background: var(--color-theme-highlight);
+}
 .post__footer h2{
   color: var(--color-text);
   background:var(--color-theme-featured-text);
