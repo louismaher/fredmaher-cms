@@ -1212,7 +1212,7 @@ hr {
   -ms-flex-negative: 0;
       flex-shrink: 0;
   margin-right: 1rem;
-  color: var(--color-text);
+  color: var(--color-dark);
 }
 
 .post__footer a {
@@ -1240,7 +1240,7 @@ hr {
 }
 
 .site-foot {
-  background: var(--color-bg-glare);
+  background: var(--color-theme-feature-text);;
   color: var(--color-text);
   border-top: 1px solid var(--color-stroke);
 }
