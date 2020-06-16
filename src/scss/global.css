@@ -1216,7 +1216,7 @@ hr {
 }
 
 .post__footer a {
-  background: var(--color-bg);
+  background: var(var(--color-theme-primary-glare));
   padding: 0.4rem 0.6rem;
 }
 
