@@ -1212,7 +1212,7 @@ hr {
   -ms-flex-negative: 0;
       flex-shrink: 0;
   margin-right: 1rem;
-  color: var(--color-featured-text);
+  color: var(--color-text);
 }
 
 .post__footer a {
