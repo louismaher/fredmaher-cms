@@ -14,7 +14,10 @@ permalink: /
 /*
   2. Components
 */
-h1{font-style:italic}
+.intro__heading {
+    font-size: 7vw;
+    font-style:italic;
+    }
 #blue-playlist-container{margin-top:80px}
 div#amplitude-player {
   background: transparent;
