@@ -618,7 +618,7 @@ img {
 }
 
 .text-max {
-  font-size: 4rem;
+  font-size: 6rem;
 }
 
 .weight-light {
@@ -1240,7 +1240,7 @@ hr {
 }
 
 .site-foot {
-  background: var(--color-theme-feature-text);;
+  background: var(--color-bg-glare);
   color: var(--color-text);
   border-top: 1px solid var(--color-stroke);
 }
