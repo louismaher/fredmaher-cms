@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "Accueil",
+      "url": "/",
+      "external": false
+    },
+    {
       "text": "À propos",
       "url": "/pages/bio/index.html",
       "external": false
