@@ -1019,6 +1019,7 @@ Amplitude.init({
 			"album": "J'attends l'printemps",
 			"url": "/mp3/j-attends-l-printemps.mp3",
       "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg",
+      "alt": "Photo de Fred Maher",
       "time_callbacks": {
       1: function(){
         console.log( "1 second into the song" )
