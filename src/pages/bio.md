@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Fred ?
+title: "Fred "
 metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""
