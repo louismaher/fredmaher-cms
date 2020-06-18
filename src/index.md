@@ -29,7 +29,7 @@ div#amplitude-player {
   margin-top: 0px;
   margin-bottom: 0px;
   display: flex;
-  max-width: 2200px; }
+  max-width: 1200px; }
 
 /* Small only */
 @media screen and (max-width: 39.9375em) {
@@ -38,7 +38,7 @@ div#amplitude-player {
 /* Medium only */
 @media screen and (min-width: 40em) and (max-width: 63.9375em) {
   div#amplitude-player {
-    max-height: 715px; } }
+    max-height: 1200px; } }
 /* Large and up */
 @media screen and (min-width: 64em) {
   div#amplitude-player {
