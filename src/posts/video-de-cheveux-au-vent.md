@@ -1,14 +1,15 @@
 ---
+archiveButtonText: Voir toutes les nouvelles
 layout: layouts/post.njk
+date: 2020-03-09T15:10:11.506Z
+postsHeading: Nouvelles
 title: Vidéo de Cheveux au vent
 metaTitle: Vidéo de Cheveux au vent
 metaDesc: Vidéo de Cheveux au vent
-postsHeading: Nouvelles
-archiveButtonText: Voir toutes les nouvelles
-date: 2020-03-09T15:10:11.506Z
 tags:
   - Vidéos
 ---
+1ère expérience vidéo, ben oui, une chanson nostalgique, pourquoi pas, de vieilles photos lors de tours de machine, j'me tannerai jamais, d'autres provenant de tournées québécoises ( chu chauffeur d'artistes à mes heures ), voir le Québec pis être payé pour c'est vraiment WOW!, des images de mon 1er show au printemps 2019, c'tait vraiment cool, merci mes amis, des séquences vidéos captées l'été et l'automne dernier en dewors d'la grand ville, Serge a pu essayer ses nouvelles bébelles, tout ça pour flyer tous ensemble dans un nowhere inclusif.
 
 <iframe
   width="560"
@@ -20,5 +21,3 @@ tags:
   allowfullscreen
   title="Vidéo de Cheveux au vent - Fred Maher"
 ></iframe>
-
-
