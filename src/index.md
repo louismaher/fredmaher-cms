@@ -42,7 +42,7 @@ div#amplitude-player {
 /* Large and up */
 @media screen and (min-width: 64em) {
   div#amplitude-player {
-    max-height: 715px; } }
+    max-height: 1000px; } }
 div#amplitude-left {
   padding: 0px;
   border-right: 0px solid #CFD8DC;
