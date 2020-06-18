@@ -29,7 +29,7 @@ div#amplitude-player {
   margin-top: 0px;
   margin-bottom: 0px;
   display: flex;
-  max-width: 1200px; }
+  max-width: 2200px; }
 
 /* Small only */
 @media screen and (max-width: 39.9375em) {
