@@ -16,8 +16,8 @@ permalink: /
 */
 .intro__heading {
     --minFontSize: 48px;
-  --maxFontSize: 144px;
-  --scaler: 10vw;
+  --maxFontSize: 72px;
+  --scaler: 4vw;
   font-size: clamp( var(--minFontSize), var(--scaler), var(--maxFontSize) );
     font-style:italic;
     }
@@ -707,8 +707,8 @@ div#large-visualization{
                                 <span data-amplitude-song-info="album"></span>
                             </div>-->
                             <br>
-                            <button class="[ button ] [ font-base text-base weight-bold ]">
-          🌱 L'album J'attends l'printemps  <br>est disponible sur Bandcamp
+                            <a href="https://fredmahermusique.bandcamp.com"><button class="[ button ] [ font-base text-base weight-bold ]">
+          L'album J'attends l'printemps <br>est disponible sur Bandcamp</a>                          
         </button>
                         </div>
                     </div>
