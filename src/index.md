@@ -14,13 +14,9 @@ permalink: /
 /*
   2. Components
 */
-/*.intro__heading {
-    --minFontSize: 48px;
-  --maxFontSize: 72px;
-  --scaler: 4vw;
-  font-size: clamp( var(--minFontSize), var(--scaler), var(--maxFontSize) );
+.intro__heading {
     font-style:italic;
-    }*/
+    }
 #blue-playlist-container{margin-top:80px}
 div#amplitude-player {
   background: transparent;
@@ -411,7 +407,7 @@ div#control-container {
       cursor: pointer;
       margin: auto; }
       div#control-container div#volume-container div#shuffle-right.amplitude-shuffle-off {
-        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/shuffle-off.svg"); }
+        background: url("images/shuffle-off.svg"); }
       div#control-container div#volume-container div#shuffle-right.amplitude-shuffle-on {
         background: url("images/shuffle-on.svg"); }
   div#control-container div.amplitude-mute {
