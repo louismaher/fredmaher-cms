@@ -758,10 +758,6 @@ div#large-visualization{
                             <span class="song-title">Ainsi soit-il</span>
                             <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
-                        <a href="https://lorn.bandcamp.com/" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
-                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
-                        </a>
                         <span class="song-duration">2:31</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="4">
