@@ -11,13 +11,8 @@
       "external": false
     },
     {
-      "text": "Nouvelles",
-      "url": "/pages/nouvelles/index.html",
-      "external": false
-    },
-    {
       "text": "Youtube",
-      "url": "https://www.youtube.com/channel/UCa6Mu7rVQ7BOkmsXrAFZRXQ",
+      "url": "https://www.youtube.com/channel/UCa6Mu7rVQ7BOkmsXrAFZRXQ/videos",
       "external": true
     },
     {
