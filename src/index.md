@@ -84,9 +84,8 @@ div#amplitude-right {
       display: none;
       background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/list-play-light.png") no-repeat;
       width: 22px;
-      height: 22px;
-      margin-top: 10px; }
-    div#amplitude-right div.song div.play-button-container:hover {
+      height: 22px;}
+div#amplitude-right div.song div.play-button-container:hover {
       background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/list-play-hover.png") no-repeat; }
     div#amplitude-right div.song.amplitude-active-song-container div.song-now-playing-icon-container img.now-playing {
       display: block;}
