@@ -7,4 +7,4 @@ socialImage: ""
 ---
 Vous pouvez me contacter par courriel [fredmahermusique@gmail.com](mailto:fredmahermusique@gmail.com)
 
-Comme tout le monde se suit aujourd'hui, vous pouvez aussi me trouver sur [Youtube](https://www.youtube.com/channel/UCa6Mu7rVQ7BOkmsXrAFZRXQ/videos) 🎞️, [Facebook] 👍, ou sur la rue Masson si vous passez par là🚶‍♀️➡️ 2 mètres ⬅️🚶‍♂️.
+Comme tout le monde se suit aujourd'hui, vous pouvez aussi me trouver sur [Youtube](https://www.youtube.com/channel/UCa6Mu7rVQ7BOkmsXrAFZRXQ/videos) 🎞️, [Facebook](https://www.facebook.com/fred.maher.399) 👍, ou sur la rue Masson si vous passez par là🚶‍♀️➡️ 2 mètres ⬅️🚶‍♂️.
