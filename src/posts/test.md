@@ -1,14 +1,23 @@
 ---
+archiveButtonText: Voir toutes les nouvelles
+postHeading: Nouvelles
 layout: layouts/post.njk
-title: Test
+title: Chu enfin sur facebook! :-)
 metaTitle: Vidéo de Cheveux au vent
 metaDesc: Vidéo de Cheveux au vent
-postHeading: Nouvelles
-archiveButtonText: Voir toutes les nouvelles
-date: 2020-03-09T15:10:11.506Z
+date: 2020-06-19T18:35:01.835Z
 tags:
   - Test
 ---
+
+
+
+
+<!--StartFragment-->
+
+<https://www.facebook.com/fred.maher.399>
+
+<!--EndFragment-->
 
 <iframe
   width="560"
@@ -20,6 +29,3 @@ tags:
   allowfullscreen
   title="Vidéo de Cheveux au vent - Fred Maher"
 ></iframe>
-
-
-
