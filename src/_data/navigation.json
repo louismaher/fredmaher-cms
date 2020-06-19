@@ -19,6 +19,11 @@
       "text": "Youtube",
       "url": "https://www.youtube.com/channel/UCa6Mu7rVQ7BOkmsXrAFZRXQ",
       "external": true
+    },
+    {
+      "text": "Contact",
+      "url": "/pages/contact/index.html",
+      "external": true
     }
   ]
 }

@@ -1102,7 +1102,7 @@ hr {
 }
 
 .post__body a:not([class]) {
-  color: var(--color-dark);
+  color: red;
   position: relative;
   display: inline-block;
   background: var(--color-theme-highlight);
