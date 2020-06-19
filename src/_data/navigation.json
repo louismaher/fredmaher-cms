@@ -16,9 +16,14 @@
       "external": true
     },
     {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/fred.maher.399",
+      "external": true
+    },
+    {
       "text": "Contact",
       "url": "/pages/contact/index.html",
-      "external": true
+      "external": false
     }
   ]
 }
