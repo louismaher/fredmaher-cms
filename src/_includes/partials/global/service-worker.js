@@ -1,4 +1,4 @@
-const CACHE_KEYS = {
+//const CACHE_KEYS = {
   PRE_CACHE: `precache-${VERSION}`,
   RUNTIME: `runtime-${VERSION}`
 };
@@ -87,4 +87,4 @@ self.addEventListener('fetch', evt => {
       });
     })
   );
-});
+});//
