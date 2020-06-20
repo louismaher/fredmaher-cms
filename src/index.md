@@ -900,7 +900,7 @@ Conception et réalisation: Fred Maher, Serge Morneau
 Montage: Serge Morneau  
 Photo: Serge Morneau
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.0.3/dist/amplitude.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.0.3/dist/amplitude.js"></script>
 <script>
  /*
 	When the bandcamp link is pressed, stop all propagation so AmplitudeJS doesn't
@@ -956,7 +956,7 @@ Amplitude.init({
       "name": "J'attends l'printemps",
 			"artist": "Fred Maher",
 			"album": "J'attends l'printemps",
-			"url": "/mp3/j-attends-l-printemps.mp3",
+			"url": "https://fredmahermusique.com/mp3/j-attends-l-printemps.mp3",
       "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
