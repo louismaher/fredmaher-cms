@@ -703,9 +703,9 @@ div#large-visualization{
                                 <span data-amplitude-song-info="album"></span>
                             </div>-->
                             <br>
-                            <button class="[ button ] [ font-base text-base weight-bold ]">
+                           <a href="https://fredmahermusique.bandcamp.com/"> <button class="[ button ] [ font-base text-base weight-bold ]">
           🌱 L'album J'attends l'printemps  <br>est disponible sur Bandcamp
-        </button>
+        </button></a>
                         </div>
                     </div>
                 </div>
