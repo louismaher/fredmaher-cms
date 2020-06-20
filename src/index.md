@@ -929,7 +929,7 @@ for( var i = 0; i < songElements.length; i++ ){
 		this.querySelectorAll('.song-duration')[0].style.color = '#6ea43b';
 	});
 	/*
-		Ensure that on mouseout, CSS styles don't get messed up for active songs.
+		Ensure that on mouseout, CSS styles don't get messed up for active songs
 	*/
 	songElements[i].addEventListener('mouseout', function(){
 		this.style.backgroundColor = 'transparent';
