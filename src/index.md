@@ -957,18 +957,7 @@ Amplitude.init({
 			"artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/j-attends-l-printemps.mp3",
-      "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg",
-      "time_callbacks": {
-      1: function(){
-        console.log( "1 second into the song" )
-      },
-      90: function(){
-        console.log( "1 minute 30 seconds into the song" );
-      },
-      110: function(){
-        console.log( "1 minute 50 seconds into the song" );
-      }
-    }
+      "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
       "name": "Jamais loin",
