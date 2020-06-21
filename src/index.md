@@ -15,10 +15,10 @@ permalink: /
   2. Components
 */
 .intro__heading {
-    --minFontSize: 48px;
+    /*--minFontSize: 48px;
   --maxFontSize: 144px;
   --scaler: 10vw;
-  font-size: clamp( var(--minFontSize), var(--scaler), var(--maxFontSize) );
+  font-size: clamp( var(--minFontSize), var(--scaler), var(--maxFontSize) );*/
     font-style:italic;
     }
 #blue-playlist-container{margin-top:80px}
