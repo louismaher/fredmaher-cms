@@ -484,5 +484,12 @@
 
   player.initPlayer();
 })();</script>
+<script>
+navigator.serviceWorker.getRegistrations().then(function(registrations) {
+  for(let registration of registrations) {
+    registration.unregister()
+    document.location.reload()
+} })
+</script>
 </body>
 </html>
