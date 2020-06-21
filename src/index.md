@@ -42,7 +42,7 @@ div#amplitude-player {
 /* Large and up */
 @media screen and (min-width: 64em) {
   div#amplitude-player {
-    max-height: 715px; } }
+    max-height: 1200px; } }
 div#amplitude-left {
   padding: 0px;
   border-right: 0px solid #CFD8DC;
@@ -75,7 +75,7 @@ div#amplitude-right {
   flex-direction: column; }
   div#amplitude-right div.song {
     cursor: pointer;
-    padding: 10px; }
+    padding: 0 10px;}
     div#amplitude-right div.song div.song-now-playing-icon-container {
       float: left;
       width: 20px;
@@ -107,7 +107,7 @@ div#amplitude-right {
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
-        padding-top:10px }
+        padding-top:11px }
       div#amplitude-right div.song div.song-meta-data span.song-artist {
         color: #fff;
         font-size: 14px;
@@ -411,7 +411,7 @@ div#control-container {
       cursor: pointer;
       margin: auto; }
       div#control-container div#volume-container div#shuffle-right.amplitude-shuffle-off {
-        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/shuffle-off.svg"); }
+        background: url("images/shuffle-off.svg"); }
       div#control-container div#volume-container div#shuffle-right.amplitude-shuffle-on {
         background: url("images/shuffle-on.svg"); }
   div#control-container div.amplitude-mute {
@@ -707,9 +707,9 @@ div#large-visualization{
                                 <span data-amplitude-song-info="album"></span>
                             </div>-->
                             <br>
-                            <button class="[ button ] [ font-base text-base weight-bold ]">
+                            <a href="https://fredmahermusique.bandcamp.com"><button class="[ button ] [ font-base text-base weight-bold ]">
           🌱 L'album J'attends l'printemps  <br>est disponible sur Bandcamp
-        </button>
+        </button></a>
                         </div>
                     </div>
                 </div>
@@ -720,7 +720,7 @@ div#large-visualization{
                         <div class="song-now-playing-icon-container">
                             <div class="play-button-container">
                             </div>
-                            <img class="now-playing" src="images/now-playing.svg"/>
+                            <img class="now-playing" src="images/now-playing.svg" alt="now-playing"/>
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">J'attends l'printemps</span>
@@ -1018,7 +1018,7 @@ Amplitude.init({
 			"artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/j-attends-l-printemps.mp3",
-      "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg",
+      "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/v1581958264/fredmaher.jpg",
       "time_callbacks": {
       1: function(){
         console.log( "1 second into the song" )
