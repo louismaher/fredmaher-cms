@@ -15,6 +15,10 @@ permalink: /
   2. Components
 */
 .intro__heading {
+    --minFontSize: 48px;
+  --maxFontSize: 144px;
+  --scaler: 10vw;
+  font-size: clamp( var(--minFontSize), var(--scaler), var(--maxFontSize) );
     font-style:italic;
     }
 #blue-playlist-container{margin-top:80px}
@@ -38,7 +42,7 @@ div#amplitude-player {
 /* Large and up */
 @media screen and (min-width: 64em) {
   div#amplitude-player {
-    max-height: 1200px; } }
+    max-height: 715px; } }
 div#amplitude-left {
   padding: 0px;
   border-right: 0px solid #CFD8DC;
@@ -65,7 +69,7 @@ div#amplitude-left {
       height: auto; } }
 div#amplitude-right {
   padding: 0px;
-  /*overflow-y: scroll;*/
+  overflow-y: scroll;
   width: 50%;
   display: flex;
   flex-direction: column; }
@@ -407,7 +411,7 @@ div#control-container {
       cursor: pointer;
       margin: auto; }
       div#control-container div#volume-container div#shuffle-right.amplitude-shuffle-off {
-        background: url("images/shuffle-off.svg"); }
+        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/shuffle-off.svg"); }
       div#control-container div#volume-container div#shuffle-right.amplitude-shuffle-on {
         background: url("images/shuffle-on.svg"); }
   div#control-container div.amplitude-mute {
@@ -703,9 +707,9 @@ div#large-visualization{
                                 <span data-amplitude-song-info="album"></span>
                             </div>-->
                             <br>
-                           <a href="https://fredmahermusique.bandcamp.com/"> <button class="[ button ] [ font-base text-base weight-bold ]">
+                            <button class="[ button ] [ font-base text-base weight-bold ]">
           🌱 L'album J'attends l'printemps  <br>est disponible sur Bandcamp
-        </button></a>
+        </button>
                         </div>
                     </div>
                 </div>
