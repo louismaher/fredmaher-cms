@@ -69,7 +69,7 @@ div#amplitude-left {
       height: auto; } }
 div#amplitude-right {
   padding: 0px;
-  overflow-y: scroll;
+  /*overflow-y: scroll;*/
   width: 50%;
   display: flex;
   flex-direction: column; }
