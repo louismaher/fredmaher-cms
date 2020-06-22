@@ -746,12 +746,7 @@ div#large-visualization{
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Cheveux au vent</span>
-                            <!--<span class="song-artist">Fred Maher</span>-->
                         </div>
-                        <a href="https://emancipator.bandcamp.com" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
-                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
-                        </a>
                         <span class="song-duration">3:54</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="3">
@@ -850,13 +845,8 @@ div#large-visualization{
                         </div>
                         <div class="song-meta-data">
                             <span class="song-title">Ce n'est pas par hasard</span>
-                            <!--<span class="song-artist">Fred Maher</span>-->
                             <span class="time-callbacks"></span>
                         </div>
-                        <a href="https://switchstancerecordings.bandcamp.com/track/risin-high-feat-raashan-ahmad" class="bandcamp-link" target="_blank">
-                            <img class="bandcamp-grey" src="images/bandcamp-grey.svg"/>
-                            <img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
-                        </a>
                         <span class="song-duration">2:43</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="12">
