@@ -672,7 +672,7 @@ div#large-visualization{
                             <div id="progress-container">
                                 <div class="amplitude-wave-form">
                         </div>
-                <input type="range" class="amplitude-song-slider"/>
+                <label><input type="range" class="amplitude-song-slider"/></label>
                                 <progress id="song-played-progress" class="amplitude-song-played-progress"></progress>
                                 <progress id="song-buffered-progress" class="amplitude-buffered-progress" value="0"></progress>
                             </div>
@@ -695,7 +695,7 @@ div#large-visualization{
                             <div id="volume-container">
                                 <div class="volume-controls">
                                     <div class="amplitude-mute amplitude-not-muted"></div>
-                                    <input type="range" class="amplitude-volume-slider"/>
+                                    <label><input type="range" class="amplitude-volume-slider"/></label>
                                     <div class="ms-range-fix"></div>
                                 </div>
                                 <div class="amplitude-shuffle amplitude-shuffle-off" id="shuffle-right"></div>
