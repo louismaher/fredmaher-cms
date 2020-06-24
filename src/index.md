@@ -890,7 +890,7 @@ Conception et réalisation: Fred Maher, Serge Morneau
 Montage: Serge Morneau  
 Photo: Serge Morneau
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.0.3/dist/amplitude.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.0.3/dist/amplitude.js"></script>
 <script>
  /*
 	When the bandcamp link is pressed, stop all propagation so AmplitudeJS doesn't
