@@ -913,7 +913,7 @@ for( var i = 0; i < songElements.length; i++ ){
 	songElements[i].addEventListener('mouseover', function(){
 		this.style.backgroundColor = 'transparent';
 		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#ffffff';
-		this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#ffffff';
+			/*this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#ffffff';*/
 		if( !this.classList.contains('amplitude-active-song-container') ){
 			this.querySelectorAll('.play-button-container')[0].style.display = 'block';
 		}
@@ -927,7 +927,7 @@ for( var i = 0; i < songElements.length; i++ ){
 	songElements[i].addEventListener('mouseout', function(){
 		this.style.backgroundColor = 'transparent';
 		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#6ea43b';
-		this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#ffffff';
+			/*this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#ffffff';*/
 		this.querySelectorAll('.play-button-container')[0].style.display = 'none';
 		this.querySelectorAll('img.bandcamp-grey')[0].style.display = 'block';
 		this.querySelectorAll('img.bandcamp-white')[0].style.display = 'none';
