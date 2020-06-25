@@ -6,7 +6,7 @@ archiveButtonText: Voir toutes les nouvelles
 metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
 permalink: /
 ---
-
+<head>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.0.3/dist/amplitude.js"></script>
 
 <style>
@@ -659,6 +659,7 @@ div#large-visualization{
 
 /*# sourceMappingURL=app.css.map */
 </style>
+</head>
 <div id="blue-playlist-container">
             <!-- Amplitude Player -->
             <div id="amplitude-player">
