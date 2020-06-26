@@ -666,7 +666,7 @@ div#large-visualization{
                 <!-- Left Side Player -->
                 <div id="amplitude-left">
                     <img data-amplitude-song-info="cover_art_url" class="album-art"/>
-          <!--<div class="amplitude-visualization" id="large-visualization">-->
+          <!-- <div class="amplitude-visualization" id="large-visualization"> -->
             </div>
                     <div id="player-left-bottom">
                         <div id="time-container">
