@@ -8,6 +8,6 @@
   "authorName": "Fred Maher",
   "enableThirdPartyComments": false,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
-  "faviconPath": "<link rel=\"icon\" href=\"data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎯</text></svg>\">",
+  "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 10
 }
