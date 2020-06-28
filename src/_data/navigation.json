@@ -18,7 +18,8 @@
     {
       "text": "Facebook",
       "url": "https://www.facebook.com/Fred-Maher-Musique-111646130594143 target=\"_blank\"",
-      "external": true
+      "external": true,
+      "attrs": "_blank"
     },
     {
       "text": "Contact",
