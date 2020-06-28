@@ -751,6 +751,8 @@ div#large-visualization{
                         <div class="song-meta-data">
                             <span class="song-title">Cheveux au vent</span>
                         </div>
+                       <!--<span><a href="posts/video-de-cheveux-au-vent/"><button class="[ button ] [ font-base text-300 ]">🌱 Voir la vidéo
+        </button></a></span>-->
                         <span class="song-duration">3:54</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="3">
