@@ -11,6 +11,11 @@
       "external": false
     },
     {
+      "text": "Nouvelles",
+      "url": "/archive/index.html",
+      "external": false
+    },
+    {
       "text": "Youtube",
       "url": "https://www.youtube.com/channel/UCa6Mu7rVQ7BOkmsXrAFZRXQ/videos",
       "external": true
@@ -18,7 +23,6 @@
     {
       "text": "Facebook",
       "url": "https://www.facebook.com/Fred-Maher-Musique-111646130594143/",
-      "target": "_blank",
       "external": true
     },
     {
