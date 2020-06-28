@@ -126,7 +126,7 @@
     h2 {
       flex-shrink: 0;
       margin-right: get-size('base');
-      color: var(--color-dark);
+      color: var(--color-primary);
     }
 
     h2 a {
@@ -134,7 +134,7 @@
     }
 
     a {
-      background: var(--color-bg);
+      background: var(--color-primary-glare);
       padding: 0.4rem 0.6rem;
     }
   }
