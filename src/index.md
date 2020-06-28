@@ -10,6 +10,13 @@ permalink: /
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.1.0/dist/amplitude.js"></script>
 
 <style>
+.video a{
+  color:#fff;
+font-size:12px;
+background:#6ea43b;
+padding:8px;
+margin-left:8px
+}
 /*
   1. Base
 */
@@ -749,10 +756,9 @@ div#large-visualization{
                             <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
-                            <span class="song-title">Cheveux au vent</span>
+                            <span class="song-title">Cheveux au vent<span class="video"><a href="posts/video-de-cheveux-au-vent/">VIDÉO
+        </a></span></span>
                         </div>
-                       <!--<span><a href="posts/video-de-cheveux-au-vent/"><button class="[ button ] [ font-base text-300 ]">🌱 Voir la vidéo
-        </button></a></span>-->
                         <span class="song-duration">3:54</span>
                     </div>
                     <div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="3">
