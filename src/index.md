@@ -888,20 +888,6 @@ div#large-visualization{
             </div>
             <!-- End Amplitdue Player -->
 </div>
-<h4>Paroles et musique: Fred Maher</h4>
-
-Fred Maher: guitares, voix  
-Michel Hinton: piano, accordéon  
-Mario Légaré: basses, voix  
-Louis Maher: guitares, yukulele, voix
-
-Enregistrement: Michel Hinton  
-Mix et mastering: Guy Rhéaume  
-Vidéo de Cheveux au vent  
-Conception et réalisation: Fred Maher, Serge Morneau  
-Montage: Serge Morneau  
-Photo: Serge Morneau
-
 <script>
  /*
 	When the bandcamp link is pressed, stop all propagation so AmplitudeJS doesn't
