@@ -9,7 +9,7 @@ metaDesc: Vidéo de Cheveux au vent
 tags:
   - Vidéos
 ---
-1ère expérience vidéo, ben oui, une chanson nostalgique, pourquoi pas, de vieilles photos lors de tours de machine, j'me tannerai jamais, d'autres provenant de tournées québécoises ( chu chauffeur d'artistes à mes heures ), voir le Québec pis être payé pour c'est vraiment WOW!, des images de mon 1er show au printemps 2019, c'tait vraiment cool, merci mes amis, des séquences vidéos captées l'été et l'automne dernier en dewors d'la grand ville, Serge a pu essayer ses nouvelles bébelles, tout ça pour flyer tous ensemble vers un nowhere cheveux au vent.
+1ère expérience vidéo, ben oui, une chanson nostalgique, pourquoi pas, de vieilles photos lors de ballades en auto, j'me tannerai jamais, d'autres provenant de tournées québécoises ( j'suis chauffeur d'artistes à mes heures ), que c'est beau le Québec! , des images de mon 1er spectacle au printemps 2019, vraiment cool, merci mes amis, des séquences vidéos captées l'été et l'automne dernier en dehors d'la grand ville, Serge a pu essayer ses nouvelles bébelles, tout ça pour flyer vers un nowhere cheveux au vent.
 
 <iframe
   width="560"
