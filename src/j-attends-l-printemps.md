@@ -15,21 +15,23 @@ En passant, j'm’appelle Frédéric, mais tout l’monde m’appelle Fred :-)
 
 Paroles et musique: Fred Maher 
 
-Fred Maher: guitares, voix  
-Michel Hinton: piano, accordéon  
-Mario Légaré: basses, voix  
+Fred Maher: guitares, voix\
+Michel Hinton: piano, accordéon\
+Mario Légaré: basses, voix\
 Louis Maher: guitares, yukulele, voix  
 
-Enregistrement: Michel Hinton  
-Mix et mastering: Guy Rhéaume  
-Vidéo de Cheveux au vent  
-Conception et réalisation: Fred Maher, Serge Morneau  
-Montage: Serge Morneau  
-Photo: Serge Morneau
+Michel Hinton: enregistrement\
+Guy Rhéaume: mix et mastering
+
+Vidéo de Cheveux au vent\
+Fred Maher, Serge Morneau: conception et réalisation\
+Serge Morneau: montage
+
+Serge Morneau: photo couverture
 
 ### Vidéo
 
-1ère expérience vidéo, ben oui, une chanson nostalgique, pourquoi pas, de vieilles photos lors de tours de machine, j'me tannerai jamais, d'autres provenant de tournées québécoises ( chu chauffeur d'artistes à mes heures ), voir le Québec pis être payé pour c'est vraiment WOW!, des images de mon 1er show au printemps 2019, c'tait vraiment cool, merci mes amis, des séquences vidéos captées l'été et l'automne dernier en dewors d'la grand ville, Serge a pu essayer ses nouvelles bébelles, tout ça pour flyer tous ensemble vers un nowhere cheveux au vent.
+1ère expérience vidéo, ben oui, une chanson nostalgique, pourquoi pas, de vieilles photos prises lors de ballades en auto, j'en ai besoin, d'autres provenant de tournées québécoises ( j'suis chauffeur d'artistes à mes heures ), c'est tellement beau le Québec , des images de mon 1er spectacle au printemps 2019, vraiment cool, merci mes amis, des séquences vidéos captées l'été et l'automne dernier en dehors de la ville, Serge a pu essayer ses nouvelles bébelles, tout ça pour partir sur un nowhere cheveux au vent.
 
 <iframe
   width="560"
