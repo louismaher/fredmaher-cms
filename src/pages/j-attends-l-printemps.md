@@ -32,7 +32,7 @@ Vidéo de Cheveux au vent\
 Fred Maher, Serge Morneau: conception et réalisation\
 Serge Morneau: montage
 
-Serge Morneau: photo de la pochette
+Serge Morneau: photo couverture
 
 ### Vidéo
 
