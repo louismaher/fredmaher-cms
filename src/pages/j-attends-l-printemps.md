@@ -25,12 +25,13 @@ Michel Hinton: piano, accordéon\
 Mario Légaré: basses, voix\
 Louis Maher: guitares, yukulele, voix  
 
-Enregistrement: Michel Hinton\
-Mix et mastering: Guy Rhéaume\
+Michel Hinton: enregistrement\
+Guy Rhéaume: mix et mastering
+
 Vidéo de Cheveux au vent\
-Conception et réalisation: Fred Maher, Serge Morneau\
-Montage: Serge Morneau\
-Photo: Serge Morneau
+Fred Maher, Serge Morneau: conception et réalisation\
+Serge Morneau: montage\
+Serge Morneau: photo
 
 ### Vidéo
 
