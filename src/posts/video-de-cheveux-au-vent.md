@@ -1,7 +1,7 @@
 ---
 archiveButtonText: Voir toutes les nouvelles
 layout: layouts/post.njk
-date: 2020-06-18T22:00:53.070Z
+date: 2020-06-18T22:00:00.000Z
 postsHeading: Nouvelles
 title: Vidéo de Cheveux au vent
 metaTitle: Vidéo de Cheveux au vent
@@ -9,7 +9,7 @@ metaDesc: Vidéo de Cheveux au vent
 tags:
   - Vidéos
 ---
-1ère expérience vidéo, ben oui, une chanson nostalgique, pourquoi pas, de vieilles photos lors de tours de machine, j'me tannerai jamais, d'autres provenant de tournées québécoises ( chu chauffeur d'artistes à mes heures ), voir le Québec pis être payé pour c'est vraiment WOW!, des images de mon 1er show au printemps 2019, c'tait vraiment cool, merci mes amis, des séquences vidéos captées l'été et l'automne dernier en dewors d'la grand ville, Serge a pu essayer ses nouvelles bébelles, tout ça pour flyer tous ensemble vers un nowhere cheveux au vent.
+1ère expérience vidéo, ben oui, une chanson nostalgique, pourquoi pas, de vieilles photos prises lors de ballades en auto, j'en ai besoin, d'autres provenant de tournées québécoises ( j'suis chauffeur d'artistes à mes heures ), c'est tellement beau le Québec , des images de mon spectacle au printemps 2019, vraiment cool, merci mes amis, des séquences vidéos captées l'été et l'automne dernier en dehors de la ville, Serge a pu essayer ses nouvelles bébelles, tout ça pour partir sur un nowhere cheveux au vent.
 
 <iframe
   width="560"

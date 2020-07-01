@@ -11,28 +11,32 @@ socialImage: ""
 <li class="nav__item"><a href="#textes">Paroles et musique</a></li>
 </ul>
 
-### Aperçu  
+### Aperçu
 
-Un piano, une guitare,  des shows au Café étudiant, un band, des concours, des musiques de théâtre, des collaborations, des cours de musique, de l'eau qui coule sous les ponts, et ce projet personnel qui s'est imposé tout naturellement.  
+Un piano, une guitare,  des shows au Café étudiant, un band, des concours, des musiques de théâtre, des collaborations, des cours de musique, de l'eau qui coule sous les ponts, et ce projet personnel qui s'est imposé tout naturellement.\
 En passant, j'm’appelle Frédéric, mais tout l’monde m’appelle Fred 😃
 
 ### Artisans
 
 Paroles et musique: Fred Maher 
 
-Fred Maher: guitares, voix  
-Michel Hinton: piano, accordéon  
-Mario Légaré: basses, voix  
+Fred Maher: guitares, voix\
+Michel Hinton: piano, accordéon\
+Mario Légaré: basses, voix\
 Louis Maher: guitares, yukulele, voix  
 
-Enregistrement: Michel Hinton  
-Mix et mastering: Guy Rhéaume  
-Vidéo de Cheveux au vent  
-Conception et réalisation: Fred Maher, Serge Morneau  
-Montage: Serge Morneau  
-Photo: Serge Morneau
+Michel Hinton: enregistrement\
+Guy Rhéaume: mix et mastering
+
+Vidéo de Cheveux au vent\
+Fred Maher, Serge Morneau: conception et réalisation\
+Serge Morneau: montage
+
+Serge Morneau: photo couverture
 
 ### Vidéo
+
+1ère expérience vidéo, ben oui, une chanson nostalgique, pourquoi pas, de vieilles photos prises lors de ballades en auto, j'en ai besoin, d'autres provenant de tournées québécoises ( j'suis chauffeur d'artistes à mes heures ), c'est tellement beau le Québec , des images de mon 1er spectacle au printemps 2019, vraiment cool, merci mes amis, des séquences vidéos captées l'été et l'automne dernier en dehors de la ville, Serge a pu essayer ses nouvelles bébelles, tout ça pour partir sur un nowhere cheveux au vent.
 
 <iframe
   width="560"
@@ -46,9 +50,10 @@ Photo: Serge Morneau
 ></iframe>
 
 ### Paroles et musique
-#### [J'attends l'printemps](/paroles-et-musique/j-attends-l-printemps/)
-#### [Jamais loin](/paroles-et-musique/jamais-loin/)
 
+#### [J'attends l'printemps](/paroles-et-musique/j-attends-l-printemps/)
+
+#### [Jamais loin](/paroles-et-musique/jamais-loin/)
 
 Écoutez 🌱 *[J'attends l'printemps](/)*  
 
