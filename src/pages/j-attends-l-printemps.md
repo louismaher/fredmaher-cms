@@ -30,8 +30,9 @@ Guy Rhéaume: mix et mastering
 
 Vidéo de Cheveux au vent\
 Fred Maher, Serge Morneau: conception et réalisation\
-Serge Morneau: montage\
-Serge Morneau: photo
+Serge Morneau: montage
+
+Serge Morneau: photo de la pochette
 
 ### Vidéo
 
