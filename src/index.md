@@ -13,9 +13,10 @@ permalink: /
 .video a{
   color:#fff;
 font-size:12px;
-background:#6ea43b;
+background:#577F2E;
 padding:8px;
-margin-left:8px
+margin-left:8px;
+text-decoration:none
 }
 /*
   1. Base
@@ -718,9 +719,9 @@ div#large-visualization{
                                 <span data-amplitude-song-info="album"></span>
                             </div>-->
                             <br>
-                            <a href="https://fredmahermusique.bandcamp.com"><button class="[ button ] [ font-base text-base weight-bold ]">
-          🌱 L'album numérique J'attends l'printemps  <br>est disponible ici sur Bandcamp
-        </button></a>
+                            <button class="[ button ] [ font-base text-base weight-bold ]">
+          <a href="https://fredmahermusique.bandcamp.com">L'album numérique est disponible sur <br><br><img src="images/bandcamp.svg" alt="Logo Bandcamp"></a>
+        </button>
                         </div>
                     </div>
                 </div>
@@ -945,7 +946,7 @@ Amplitude.init({
 			"artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/j-attends-l-printemps.mp3",
-      "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
+      "cover_art_url": "images/fredmaher.jpg"
     },
     {
       "name": "Jamais loin",
