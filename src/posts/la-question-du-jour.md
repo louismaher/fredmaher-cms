@@ -13,4 +13,8 @@ La réponse vous appartient.
 
 Si la pérennité de la culture vous tient à coeur, il vous est possible d'encourager cette option en y ajoutant votre grain de sel.
 
-[Bandcamp]([](https://fredmahermusique.bandcamp.com/releases))
+ <!--StartFragment-->
+
+<https://fredmahermusique.bandcamp.com/releases>
+
+<!--EndFragment-->
