@@ -7,7 +7,7 @@ metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
 permalink: /
 ---
 <head>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.1.0/dist/amplitude.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.0.3/dist/amplitude.js"></script>
 
 <style>
 .video a{
@@ -720,7 +720,7 @@ div#large-visualization{
                             </div>-->
                             <br>
                             <button class="[ button ] [ font-base text-base weight-bold ]">
-          <a href="https://fredmahermusique.bandcamp.com">L'album numérique est disponible sur <br><br><img src="images/bandcamp.svg" alt="Logo Bandcamp"></a>
+          L'album numérique est disponible sur <br><br><a href="https://fredmahermusique.bandcamp.com"><img src="images/bandcamp.svg" alt="Logo Bandcamp"></a>
         </button>
                         </div>
                     </div>
@@ -946,7 +946,7 @@ Amplitude.init({
 			"artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/j-attends-l-printemps.mp3",
-      "cover_art_url": "images/fredmaher.jpg"
+      "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
       "name": "Jamais loin",
