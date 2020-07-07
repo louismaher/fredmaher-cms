@@ -60,6 +60,6 @@ Serge Morneau: photo couverture
 [Masson &rarr;](/paroles-et-musique/masson/)<br>
 [Le secret de l'amour &rarr;](/paroles-et-musique/le-secret-de-l-amour/)
 
-<a href="https://fredmahermusique.bandcamp.com"><button class="[ button ] [ font-base text-base weight-bold ]">
-          🌱 L'album numérique J'attends l'printemps  <br>est disponible ici sur Bandcamp
-        </button></a>
+<button class="[ button ] [ font-base text-base weight-bold ]">
+          L'album numérique est disponible sur <br><br><a href="https://fredmahermusique.bandcamp.com"><img src="images/bandcamp.svg" alt="Logo Bandcamp"></a>
+        </button>
