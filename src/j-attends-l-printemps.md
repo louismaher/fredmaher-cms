@@ -13,7 +13,7 @@ En passant, j'm’appelle Frédéric, mais tout l’monde m’appelle Fred :-)
 
 ### Artisans
 
-Paroles et musique: Fred Maher 
+Fred Maher: paroles et musique 
 
 Fred Maher: guitares, voix\
 Michel Hinton: piano, accordéon\
