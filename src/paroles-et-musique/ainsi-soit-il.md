@@ -58,14 +58,9 @@ sur son île d’amour
 Sa vie est une aquarelle<br>
 Ainsi soit-il
 
-
-
-
-
-
-
 [&larr; Retour](/j-attends-l-printemps/index.html#heading-paroles-et-musique) 
-
-<a href="https://fredmahermusique.bandcamp.com"><button class="[ button ] [ font-base text-base weight-bold ]">
-          🌱 L'album numérique J'attends l'printemps  <br>est disponible ici sur Bandcamp
-        </button></a>
+  
+<br>
+<button class="[ button ] [ font-base text-base weight-bold ]">
+          L'album numérique est disponible sur <br><br><a href="https://fredmahermusique.bandcamp.com"><img src="/images/bandcamp.svg" alt="Logo Bandcamp"></a>
+        </button>

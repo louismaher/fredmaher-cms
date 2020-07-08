@@ -57,11 +57,8 @@ Entre donc deux minutes que j’te laisse pu partir<br>
 
 J’attends l’printemps
 
-
-
-
-[&larr; Retour](/j-attends-l-printemps/index.html#heading-paroles-et-musique)
-
-<a href="https://fredmahermusique.bandcamp.com"><button class="[ button ] [ font-base text-base weight-bold ]">
-          🌱 L'album numérique J'attends l'printemps  <br>est disponible ici sur Bandcamp
-        </button></a>
+[&larr; Retour](/j-attends-l-printemps/index.html#heading-paroles-et-musique)  
+<br>
+<button class="[ button ] [ font-base text-base weight-bold ]">
+          L'album numérique est disponible sur <br><br><a href="https://fredmahermusique.bandcamp.com"><img src="/images/bandcamp.svg" alt="Logo Bandcamp"></a>
+        </button>
