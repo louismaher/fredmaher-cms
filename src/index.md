@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: J'attends l'printemps
+title: Fred Maher - J'attends l'printemps
 postsHeading: Dernières nouvelles
 archiveButtonText: Voir toutes les nouvelles
 metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
