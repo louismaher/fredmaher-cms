@@ -5,7 +5,11 @@ metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""
 ---
-
+<style>
+h1 {
+    font-style:italic;
+    }
+</style>
 ### Aperçu  
 
 Un piano, une guitare,  des shows au Café étudiant, un band, des concours, des musiques de théâtre, des collaborations, des cours de musique, de l'eau qui coule sous les ponts, et ce projet personnel qui s'est imposé tout naturellement.<br>
