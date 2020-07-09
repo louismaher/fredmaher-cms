@@ -676,7 +676,7 @@ div#large-visualization{
             <div id="amplitude-player">
                 <!-- Left Side Player -->
                 <div id="amplitude-left">
-                    <img class="album-art"/>
+                <span class="album-art"></span>
           <div class="amplitude-visualization" id="large-visualization">
             </div>
                     <div id="player-left-bottom">
