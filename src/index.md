@@ -7,7 +7,7 @@ metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
 permalink: /
 ---
 <head>
-<script async type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.1.0/dist/amplitude.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.1.0/dist/amplitude.js"></script>
 
 <style>
 .video a{
