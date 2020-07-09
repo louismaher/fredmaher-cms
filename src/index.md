@@ -18,6 +18,13 @@ padding:8px;
 margin-left:8px;
 text-decoration:none
 }
+.album-art{
+  background-image: url("https://fredmahermusique.com/images/fredmaher.jpg");
+  height: 264px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
 /*
   1. Base
 */
@@ -25,11 +32,7 @@ text-decoration:none
 /*
   2. Components
 */
-.intro__heading {
-    /*--minFontSize: 48px;
-  --maxFontSize: 144px;
-  --scaler: 10vw;
-  font-size: clamp( var(--minFontSize), var(--scaler), var(--maxFontSize) );*/
+h1 {
     font-style:italic;
     }
 #blue-playlist-container{margin-top:80px}
@@ -673,7 +676,7 @@ div#large-visualization{
             <div id="amplitude-player">
                 <!-- Left Side Player -->
                 <div id="amplitude-left">
-                    <img data-amplitude-song-info="cover_art_url" class="album-art"/>
+                    <img class="album-art"/>
           <div class="amplitude-visualization" id="large-visualization">
             </div>
                     <div id="player-left-bottom">
@@ -946,98 +949,84 @@ Amplitude.init({
 			"artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/j-attends-l-printemps.mp3",
-      "cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
       "name": "Jamais loin",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/jamais-loin.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
       "name": "Cheveux au vent",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/cheveux-au-vent.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
 			"name": "Ainsi soit-il",
 			"artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/ainsi-soit-il.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
 			"name": "Amoureux seul",
 			"artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/amoureux-seul.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
       "name": "Lentement mais sûrement",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/lentement-mais-surement.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
       "name": "On a eu peur",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/on-a-eu-peur.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
       "name": "En courant",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/en-courant.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
 		},
 		{
 			"name": "J'ai pas l'choix",
 			"artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/j-ai-pas-l-choix.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
       "name": "Si j'te trouvais",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/si-j-te-trouvais.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
       "name": "Marcher",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/marcher.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
       "name": "Ce n'est pas par hasard",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/ce-n-est-pas-par-hasard.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
     {
       "name": "Masson",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/masson.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     },
 		{
       "name": "Le secret de l'amour",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/le-secret-de-l-amour.mp3",
-			"cover_art_url": "https://res.cloudinary.com/wikilouis/image/upload/c_scale,f_auto,w_928/v1581958264/fredmaher.jpg"
     }
 	]
 });
