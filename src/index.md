@@ -4,6 +4,7 @@ title: J'attends l'printemps
 postsHeading: Dernières nouvelles
 archiveButtonText: Voir toutes les nouvelles
 metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
+metaTitle: J'attends l'printemps - Fred Maher
 permalink: /
 ---
 <head>
@@ -11,7 +12,7 @@ permalink: /
 
 <style>
 .video a{
-  color:#fff;
+color:#fff;
 font-size:12px;
 background:#577F2E;
 padding:8px;
