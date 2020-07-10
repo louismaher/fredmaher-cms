@@ -38,8 +38,7 @@ h1 {
     }
 #blue-playlist-container{margin-top:80px}
 div#amplitude-player {
-  background: transparent;
-  /*box-shadow: 0 2px 12px 8px rgba(0, 0, 0, 0.1);*/
+  background:transparent;
   margin: auto;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -90,7 +89,8 @@ div#amplitude-right {
   flex-direction: column; }
   div#amplitude-right div.song {
     cursor: pointer;
-    padding: 0 10px;}
+    padding: 0 0 0 10px;
+    }
     div#amplitude-right div.song div.song-now-playing-icon-container {
       float: left;
       width: 20px;
@@ -98,13 +98,13 @@ div#amplitude-right {
       margin-right: 10px; }
       div#amplitude-right div.song div.song-now-playing-icon-container img.now-playing {
         display: none;
-        margin-top: 15px; }
+        margin-top: 12px; }
     div#amplitude-right div.song div.play-button-container {
       display: none;
       background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/list-play-light.png") no-repeat;
       width: 22px;
       height: 22px;
-      margin-top: 10px; }
+      margin-top: 11px; }
     div#amplitude-right div.song div.play-button-container:hover {
       background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/list-play-hover.png") no-repeat; }
     div#amplitude-right div.song.amplitude-active-song-container div.song-now-playing-icon-container img.now-playing {
@@ -122,7 +122,8 @@ div#amplitude-right {
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
-        padding-top:11px }
+        padding-top:10px;
+        padding-left:0px }
       div#amplitude-right div.song div.song-meta-data span.song-artist {
         color: #fff;
         font-size: 14px;
@@ -143,11 +144,12 @@ div#amplitude-right {
     div#amplitude-right div.song span.song-duration {
       float: left;
       width: 55px;
-      text-align: center;
+      text-align: right;
       line-height: 45px;
       color: #6ea43b;
       font-size: 16px;
-      font-weight: 500; }
+      font-weight: 500;
+      padding-left:40px }
   div#amplitude-right div.song:after {
     content: "";
     display: table;
@@ -919,7 +921,7 @@ for( var i = 0; i < songElements.length; i++ ){
 		this.quer
     /*ySelectorAll('img.bandcamp-grey')[0].style.display = 'none';
 		this.querySelectorAll('img.bandcamp-white')[0].style.display = 'block';*/
-		this.querySelectorAll('.song-duration')[0].style.color = '#6ea43b';
+		this.querySelectorAll('.song-duration')[0].style.color = '#ffffff';
 	});
 	/*
 		Ensure that on mouseout, CSS styles don't get messed up for active songs.
