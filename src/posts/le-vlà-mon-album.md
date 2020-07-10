@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: V'là mon album
-metaTitle: Album J'attends l'printemps
+metaTitle: V'là mon album
 metaDesc: Fred Maher Album J'attends l'printemps
 date: 2020-07-08T04:24:06.977Z
 tags:
