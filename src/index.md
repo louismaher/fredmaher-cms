@@ -15,7 +15,7 @@ permalink: /
 color:#fff;
 font-size:12px;
 background:#577F2E;
-padding:8px;
+padding:4px;
 margin-left:8px;
 text-decoration:none
 }
@@ -82,7 +82,7 @@ div#amplitude-left {
       width: auto;
       height: auto; } }
 div#amplitude-right {
-  padding: 0px;
+  padding: 0;
   /*overflow-y: scroll;*/
   width: 50%;
   display: flex;
@@ -95,7 +95,7 @@ div#amplitude-right {
       float: left;
       width: 20px;
       height: 20px;
-      margin-right: 10px; }
+      margin-right: 20px; }
       div#amplitude-right div.song div.song-now-playing-icon-container img.now-playing {
         display: none;
         margin-top: 12px; }
@@ -116,7 +116,7 @@ div#amplitude-right {
       width: calc( 100% - 110px ); }
       div#amplitude-right div.song div.song-meta-data span.song-title {
         color: #6ea43b;
-        font-size: 16px;
+        font-size: 14px;
         display: block;
         font-weight: 700;
         white-space: nowrap;
@@ -147,9 +147,9 @@ div#amplitude-right {
       text-align: right;
       line-height: 45px;
       color: #6ea43b;
-      font-size: 16px;
+      font-size: 14px;
       font-weight: 500;
-      padding-left:40px }
+      padding-left:0px }
   div#amplitude-right div.song:after {
     content: "";
     display: table;
