@@ -30,11 +30,10 @@
 .button:active {
   transform: scale(0.99);
 }
-.intro__summary a{
-  color:var(--color-bg);
-}
-.bandcamp:link{color:var(--color-bg);
+
+.bandcamp:link{
   font-size:0.8rem;
+  font-weight:500;
   position: relative;
   display: inline-block;
   background:#ffffff;
