@@ -11,24 +11,6 @@ permalink: /
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.1.0/dist/amplitude.js"></script>
 
 <style>
-  .intro__summary a{
-    color:var(--color-bg);
-
-  }
-.bandcamp:link{color:var(--color-bg);
-    font-size:0.8rem;
-    position: relative;
-    display: inline-block;
-    background:#ffffff;
-    box-shadow: 0.48em 0.48em var(--color-theme-feature-text);
-    padding: .2rem .4rem .3rem .4rem;
-    text-decoration: none;
-    word-break: break-word;
-    line-height: 1.2;
-    }
-    .bandcamp:hover,
-    .bandcamp:focus{
-  filter: brightness(1.2);    }
 .video a{
 color:#fff; 
 font-size:12px;
