@@ -10,6 +10,7 @@
   cursor: pointer;
   -webkit-appearance: none;
   -moz-appearance: none;
+  box-shadow: 0.24em 0.24em var(--color-theme-feature-text);
 }
 
 .button:hover,
@@ -22,7 +23,7 @@
 }
 
 .button:focus:not(:hover) {
-  outline: 1px solid var(--color-action-text);
+  outline: 1px solid var(--color-theme-feature-text);
   outline-offset: -4px;
 }
 
