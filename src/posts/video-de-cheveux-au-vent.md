@@ -1,7 +1,7 @@
 ---
 archiveButtonText: Voir toutes les nouvelles
 layout: layouts/post.njk
-date: 2020-06-18T22:00:00.000Z
+date: 2020-07-12T22:00:00.000Z
 postsHeading: Nouvelles
 title: Vidéo de Cheveux au vent
 metaTitle: Vidéo de Cheveux au vent
