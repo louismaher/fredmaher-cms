@@ -31,7 +31,8 @@
   transform: scale(0.99);
 }
 
-.bandcamp:link{
+.bandcamp{
+  color:var(--color-bg);
   font-size:0.8rem;
   font-weight:500;
   position: relative;
@@ -42,6 +43,7 @@
   text-decoration: none;
   word-break: break-word;
   line-height: 1.2;
+  margin:20px 0;
   }
   .bandcamp:hover,
   .bandcamp:focus{

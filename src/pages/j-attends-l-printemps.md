@@ -55,8 +55,8 @@ Serge Morneau: photo couverture
 
 #### [Jamais loin](/paroles-et-musique/jamais-loin/)
 
-Écoutez 🌱 *[J'attends l'printemps](/)*  
-
-<a href="https://fredmahermusique.bandcamp.com"><button class="[ button ] [ font-base text-base weight-bold ]">
-          🌱 L'album numérique J'attends l'printemps  <br>est disponible ici sur Bandcamp
-        </button></a>
+Écoutez 🌱 *[J'attends l'printemps](/)*
+<br>
+<br> 
+<a class="bandcamp" href="https://fredmahermusique.bandcamp.com">
+          <br>L'album numérique est disponible sur<br><br><img src="/images/bandcamp.svg" alt="Logo Bandcamp"></a>

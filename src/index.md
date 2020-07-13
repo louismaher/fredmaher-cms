@@ -724,7 +724,6 @@ div#large-visualization{
                             <!--<div class="song-artist-album">                            <span data-amplitude-song-info="artist"></span>
                                 <span data-amplitude-song-info="album"></span>
                             </div>-->
-                            <br>
                             <a class="bandcamp" href="https://fredmahermusique.bandcamp.com">
           <br>L'album numérique est disponible sur<br><br><img src="images/bandcamp.svg" alt="Logo Bandcamp"></a>
                         </div>

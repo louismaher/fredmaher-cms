@@ -44,8 +44,8 @@ ou bien on part en courant<br>
 en courant<br>
 en courant									 
 
-[&larr; Retour](/j-attends-l-printemps/index.html#heading-paroles-et-musique)  
+[&larr; Retour](/j-attends-l-printemps/index.html#heading-paroles-et-musique)
 <br>
-<button class="[ button ] [ font-base text-base weight-bold ]">
-          L'album numérique est disponible sur <br><br><a href="https://fredmahermusique.bandcamp.com"><img src="/images/bandcamp.svg" alt="Logo Bandcamp"></a>
-        </button>
+<br> 
+<a class="bandcamp" href="https://fredmahermusique.bandcamp.com">
+          <br>L'album numérique est disponible sur<br><br><img src="/images/bandcamp.svg" alt="Logo Bandcamp"></a>
