@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: La question du jour
 metaTitle: La question du jour
 metaDesc: Payer ou non pour un bien culturel ?
-date: 2020-07-13T22:25:16.853Z
+date: 2020-07-14T04:07:26.069Z
 tags:
   - La question du jour
 ---
