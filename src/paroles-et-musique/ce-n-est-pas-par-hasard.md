@@ -48,12 +48,6 @@ En traversant le brouillard<br>
 les mêmes ornières que t’as foulées<br>
 ont aussi passé sous mes pieds
 
-Ce n’est pas par hasard<br>
-qu’une grenouille trouve son nénuphar<br>
-En traversant le brouillard<br>
-les mêmes ornières que t’as foulées<br>
-ont aussi passé sous mes pieds
-
 [&larr; Retour](/j-attends-l-printemps/index.html#heading-paroles-et-musique)
 <br>
 <br> 
