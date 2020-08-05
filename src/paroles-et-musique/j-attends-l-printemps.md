@@ -37,7 +37,6 @@ J’reste enfermé
   
 J’attends l’printemps, les cris de joie des enfants<br>
 et l’odeur du lilas quand ma f’nêtre s’ouvrira<br>
-<br>
 J’attends l’printemps, y’é juste au coin de la rue<br>
 Entre donc deux minutes que j’te laisse pu partir<br>
 <br>
@@ -51,10 +50,8 @@ pour pas v’nir fou<br>
 
 J’attends l’printemps, les cris de joie des enfants<br>
 et l’odeur du lilas quand ma f’nêtre s’ouvrira<br>
-<br>
 J’attends l’printemps, y’é juste au coin de la rue<br>
 Entre donc deux minutes que j’te laisse pu partir<br>
-
 J’attends l’printemps
 
 [&larr; Retour](/j-attends-l-printemps/index.html#heading-paroles-et-musique)
