@@ -5,7 +5,8 @@ metaTitle: Contact - Fred Maher
 metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""
 ---
-[fredmahermusique@gmail.com](mailto:fredmahermusique@gmail.com)
+Les Tournées Paule Maher
+[paule@paulemaher.com](mailto:paule@paulemaher.com)
 
 Comme tout le monde se suit aujourd'hui, vous pouvez aussi me trouver sur  
   
