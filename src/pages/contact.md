@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Contact
-permalink: ""
+permalink: /contact/index.html
 metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""
