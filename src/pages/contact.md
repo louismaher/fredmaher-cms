@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Contact
+title: Contact - Fred Maher Musique
 permalink: /contact/
 metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
