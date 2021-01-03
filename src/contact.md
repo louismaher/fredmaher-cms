@@ -6,9 +6,7 @@ metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""
 ---
 Les Tournées Paule Maher
-[paule@paulemaher.com](mailto:paule@paulemaher.com)
-
-Comme tout le monde se suit aujourd'hui, vous pouvez aussi me trouver sur  
+[paule@paulemaher.com](mailto:paule@paulemaher.com)  
   
 [Youtube](https://www.youtube.com/channel/UCa6Mu7rVQ7BOkmsXrAFZRXQ/videos)  
 
