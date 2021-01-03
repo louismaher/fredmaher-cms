@@ -3,6 +3,7 @@ layout: layouts/page.njk
 title: Contact
 metaTitle: Contact - Fred Maher
 metaDesc: Site de l'auteur-compositeur Fred Maher
+permalink: /contact/index.html
 socialImage: ""
 ---
 &nbsp;Tournées Paule Ma
