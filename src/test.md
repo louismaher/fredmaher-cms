@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: J'attends l'printemp
+title: l'printemp
 postsHeading: Dernières nouvelles
 archiveButtonText: Voir toutes les nouvelles
 metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
