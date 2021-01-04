@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Paroles et musique
-metaTitle: Fred Maher Musique
+metaTitle: Fred Maher Musique - J'ai pas l'choix
 metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""
 ---
