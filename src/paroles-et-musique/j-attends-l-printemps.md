@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Paroles et musique
-metaTitle: Fred Maher Musique
+metaTitle: Fred Maher Musique - J'attends l'printemps
 metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""
 ---
